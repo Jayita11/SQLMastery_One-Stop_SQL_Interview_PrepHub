@@ -27,13 +27,20 @@ I created this repository to help myself and others prepare for SQL interviews. 
 ## Solutions by Platforms  
 I’ve gathered questions and answers from popular SQL practice platforms:  
 
-- **[HackerRank](./hackerrank/README.md)** 
-- **[LeetCode](./leetcode/README.md)**  
-- **[Data Lemur](./data_lemur/README.md)** 
-- **[StrataScratch](./stratascratch/README.md)** 
-- **[Interview Query](./interview_query/README.md)** 
-- **[NamasteSQL by Ankit Bansal](./namaste_sql/README.md)** 
-- **[Codebasics](./codebasics/README.md)**
+1. **[HackerRank](./hackerrank/README.md)**  
+
+2. **[LeetCode](./leetcode/README.md)**  
+
+3. **[Data Lemur](./data_lemur/README.md)**  
+
+4. **[StrataScratch](./stratascratch/README.md)**  
+
+5. **[Interview Query](./interview_query/README.md)**  
+
+6. **[NamasteSQL by Ankit Bansal](./namaste_sql/README.md)**  
+
+7. **[Codebasics](./codebasics/README.md)**  
+
 
 ## SQL Case Studies  
 I’ve worked on real-world business problems to demonstrate how SQL is used in analytics and reporting:  
