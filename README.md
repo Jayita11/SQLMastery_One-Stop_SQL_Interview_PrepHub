@@ -65,7 +65,7 @@ I’ve summarized common theoretical questions and concepts that are essential f
 
 ## Usage Instructions  
 Clone the repository:  
-'''bash
+```bash
 git clone https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub.git
 
 
