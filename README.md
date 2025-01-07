@@ -43,15 +43,14 @@ A curated collection of SQL problems and solutions from 7 well-known platforms, 
 
 
 ## SQL Case Studies  
-I’ve worked on real-world business problems to demonstrate how SQL is used in analytics and reporting:  
+Real-world business problems are showcased to highlight how SQL is applied in analytics and reporting.
 
 
 ## SQL Games  
-I’ve included fun exercises to make SQL learning engaging:  
-
+Engaging and interactive exercises are included to make learning SQL fun and exciting.
 
 ## Company-Specific Questions  
-I’ve curated SQL interview questions tailored to specific companies:  
+SQL interview questions tailored to specific companies have been compiled:
 
 - **Google**: [Google SQL Challenges](./company_questions/google.md)  
 - **Amazon**: [Amazon SQL Challenges](./company_questions/amazon.md)  
