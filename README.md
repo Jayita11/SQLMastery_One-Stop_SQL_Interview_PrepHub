@@ -4,21 +4,21 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 ## Table of Contents  
 
-1. [Overview](#overview)  
+1. **[Overview](#overview)** 
 
-2. [Case Studies - 8 Week SQL Challenge](#case-studies---8-week-sql-challenge)  
+2. **[Case Studies - 8 Week SQL Challenge](#case-studies---8-week-sql-challenge)**  
 
-3. [Solutions by Platform](#solutions-by-platform)  
+3. **[Solutions by Platform](#solutions-by-platform)** 
 
-4. [Projects](#projects)  
+4. **[Projects](#projects)** 
 
-5. [Takehome Challenges](#takehome-challenges)  
+5. **[Takehome Challenges](#takehome-challenges)** 
 
-6. [Usage Instructions](#usage-instructions)  
+6. **[Usage Instructions](#usage-instructions)**  
 
-7. [Contribution Guidelines](#contribution-guidelines)  
+7. **[Contribution Guidelines](#contribution-guidelines)**  
 
-8. [License](#license)  
+8. **[License](#license)**  
  
 
 ## Introduction  
