@@ -16,9 +16,9 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 6. **[SQL Interview Theory](#sql-interview-theory)**  
 
-7. **[Contribution](#contribution)**  
+7. **[Usage Instructions](#usage-instructions)**  
 
-8. **[Usage Instructions](#usage-instructions)**  
+8. **[Contribution](#contribution)**  
 
 9. **[License](#license)**  
 
@@ -63,6 +63,11 @@ Engaging and interactive exercises are included to make learning SQL fun and exc
 ## SQL Interview Theory  
 I’ve summarized common theoretical questions and concepts that are essential for SQL interviews. 
 
+## Usage Instructions  
+   Clone the repository:  
+   ```bash
+   git clone https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub.git
+
 ## Contribution  
 I welcome contributions to this repository!  
 
@@ -70,12 +75,6 @@ I welcome contributions to this repository!
 2. Create a new branch (`feature/add-new-content`).  
 3. Add your content under the appropriate section.  
 4. Submit a pull request with a descriptive message.  
-
-## Usage Instructions  
-   Clone the repository:  
-   ```bash
-   git clone https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub.git
-
 
 ## License  
 
