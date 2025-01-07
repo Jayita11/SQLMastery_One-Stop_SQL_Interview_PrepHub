@@ -3,15 +3,23 @@
 Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL interviews! Whether you’re a beginner or an advanced SQL enthusiast, this repo is packed with resources, real-world case studies, company-specific questions, and fun SQL games to sharpen your skills.
 
 ## Table of Contents  
-1. [Introduction](#introduction)  
-2. [Solutions by Platforms](#solutions-by-platforms)  
-3. [SQL Case Studies](#sql-case-studies)  
-4. [SQL Games](#sql-games)  
-5. [Company-Specific Questions](#company-specific-questions)  
-6. [SQL Interview Theory](#sql-interview-theory)  
-7. [Contribution](#contribution)  
-8. [Usage Instructions](#usage-instructions)  
-9. [License](#license)  
+
+1. [Overview](#overview)  
+
+2. [Case Studies - 8 Week SQL Challenge](#case-studies---8-week-sql-challenge)  
+
+3. [Solutions by Platform](#solutions-by-platform)  
+
+4. [Projects](#projects)  
+
+5. [Takehome Challenges](#takehome-challenges)  
+
+6. [Usage Instructions](#usage-instructions)  
+
+7. [Contribution Guidelines](#contribution-guidelines)  
+
+8. [License](#license)  
+ 
 
 ## Introduction  
 I created this repository to help myself and others prepare for SQL interviews. It compiles challenges, real-world case studies, and theoretical interview questions from various platforms and company-specific resources. I will continuously update **SQLMastery** with new content, so feel free to star and fork the repo to stay up-to-date.
