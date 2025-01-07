@@ -70,4 +70,5 @@ I welcome contributions to this repository!
 ## Usage Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/myusername/sqlmastery.git
+   git clone https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub.git
+
