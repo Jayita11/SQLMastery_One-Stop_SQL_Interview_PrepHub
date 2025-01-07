@@ -4,21 +4,24 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 ## Table of Contents  
 
-1. **[Overview](#overview)** 
+1. **[Introduction](#Introduction)**  
 
-2. **[Case Studies - 8 Week SQL Challenge](#case-studies---8-week-sql-challenge)**  
+2. **[Solutions by Platform](#solutions-by-platform)**  
 
-3. **[Solutions by Platform](#solutions-by-platform)** 
+3. **[Company-Specific Questions](#company-specific-questions)**  
 
-4. **[Projects](#projects)** 
+4. **[SQL Case Studies](#sql-case-studies)**  
 
-5. **[Takehome Challenges](#takehome-challenges)** 
+5. **[SQL Games](#sql-games)**  
 
-6. **[Usage Instructions](#usage-instructions)**  
+6. **[SQL Interview Theory](#sql-interview-theory)**  
 
-7. **[Contribution Guidelines](#contribution-guidelines)**  
+7. **[Contribution](#contribution)**  
 
-8. **[License](#license)**  
+8. **[Usage Instructions](#usage-instructions)**  
+
+9. **[License](#license)**  
+
  
 
 ## Introduction  
@@ -41,7 +44,13 @@ A curated collection of SQL problems and solutions from 7 well-known platforms, 
 
 7. **[Codebasics](./codebasics/README.md)**  
 
+## Company-Specific Questions  
+SQL interview questions tailored to specific companies have been compiled:
 
+- **Google**: [Google SQL Challenges](./company_questions/google.md)  
+- **Amazon**: [Amazon SQL Challenges](./company_questions/amazon.md)  
+- **Meta**: [Meta SQL Challenges](./company_questions/meta.md)
+  
 ## SQL Case Studies  
 Real-world business problems are showcased to highlight how SQL is applied in analytics and reporting.
 
@@ -49,15 +58,10 @@ Real-world business problems are showcased to highlight how SQL is applied in an
 ## SQL Games  
 Engaging and interactive exercises are included to make learning SQL fun and exciting.
 
-## Company-Specific Questions  
-SQL interview questions tailored to specific companies have been compiled:
 
-- **Google**: [Google SQL Challenges](./company_questions/google.md)  
-- **Amazon**: [Amazon SQL Challenges](./company_questions/amazon.md)  
-- **Meta**: [Meta SQL Challenges](./company_questions/meta.md)  
 
 ## SQL Interview Theory  
-I’ve summarized common theoretical questions and concepts that are essential for SQL interviews:  
+I’ve summarized common theoretical questions and concepts that are essential for SQL interviews. 
 
 ## Contribution  
 I welcome contributions to this repository!  
@@ -68,7 +72,11 @@ I welcome contributions to this repository!
 4. Submit a pull request with a descriptive message.  
 
 ## Usage Instructions  
-1. Clone the repository:  
+   Clone the repository:  
    ```bash
    git clone https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub.git
 
+## License  
+
+This repository is licensed under the [MIT License](./LICENSE).  
+Please see the LICENSE file for more details.  
