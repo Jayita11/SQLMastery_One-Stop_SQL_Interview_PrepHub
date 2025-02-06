@@ -3,11 +3,6 @@
   <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100"/>
 </p>
 
-<p align="center">
-  <img src="./logo.png" alt="DataLemur Logo" width="200"/>
-</p>
-
-
 # 🦉 DataLemur SQL Challenges – Solutions  
 
 ## 📌 Overview  
