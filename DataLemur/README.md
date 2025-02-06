@@ -3,7 +3,7 @@
   <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100"/>
 </p>
 
-# 🦉 DataLemur SQL Challenges – Solutions  
+# 🐵 DataLemur SQL Challenges – Solutions  
 
 ## 📌 Overview  
 This repository contains solutions to SQL challenges from [DataLemur](https://datalemur.com/). These challenges range across **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **PostgreSQL** and structured for clarity, efficiency, and readability.  
