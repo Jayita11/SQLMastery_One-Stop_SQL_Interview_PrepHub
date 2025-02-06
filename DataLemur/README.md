@@ -7,6 +7,10 @@
   <img src="./logo.png" alt="DataLemur Logo" width="200"/>
 </p>
 
+<p align="center">
+  <img src="./logo.png" alt="DataLemur Logo">
+</p>
+
 # 🦉 DataLemur SQL Challenges – Solutions  
 
 ## 📌 Overview  
