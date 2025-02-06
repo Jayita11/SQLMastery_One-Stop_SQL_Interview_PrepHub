@@ -7,7 +7,7 @@
   <img src="./logo.png" alt="DataLemur Logo" width="200"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="./logo.png" alt="DataLemur Logo">
 </p>
 
