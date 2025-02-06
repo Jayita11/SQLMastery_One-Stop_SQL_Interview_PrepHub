@@ -18,9 +18,8 @@ Each challenge is cataloged with:
 - **Company**: Real-world company where this question appeared  
 - **Alternative Approach**: Link to another optimized solution (if available)  
 
-### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
+### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(1/35)** 
 
-### Difficulty: Easy 🟢 **(35/35)**  
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Alternative Approach |
 |----|---------------------------------|-----------|----------------|---------|----------------------|
 | 01  | [Cities With Completed Trades](https://datalemur.com) | [Solution](./SQL_Scripts/cities_completed_trades.sql) | 🔓 Unlocked | Amazon | [Alt Solution](./SQL_Scripts/cities_alt.sql) |
@@ -28,7 +27,7 @@ Each challenge is cataloged with:
 | 03  | [Laptop vs Mobile Viewership](https://datalemur.com) | [Solution](./SQL_Scripts/laptop_vs_mobile.sql) | 🔓 Unlocked | Netflix | [Alt Solution](./SQL_Scripts/laptop_alt.sql) |
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty:  🟢 **(35/35)**  
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Alternative Approach |
 |----|---------------------------------|-----------|----------------|---------|----------------------|
 | 01  | [Cities With Completed Trades](https://datalemur.com) | [Solution](./SQL_Scripts/cities_completed_trades.sql) | 🔓 Unlocked | Amazon | [Alt Solution](./SQL_Scripts/cities_alt.sql) |
@@ -36,7 +35,7 @@ Each challenge is cataloged with:
 | 03  | [Laptop vs Mobile Viewership](https://datalemur.com) | [Solution](./SQL_Scripts/laptop_vs_mobile.sql) | 🔓 Unlocked | Netflix | [Alt Solution](./SQL_Scripts/laptop_alt.sql) |
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty: Easy 🟢 **(35/35)**  
+### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Alternative Approach |
 |----|---------------------------------|-----------|----------------|---------|----------------------|
 | 01  | [Cities With Completed Trades](https://datalemur.com) | [Solution](./SQL_Scripts/cities_completed_trades.sql) | 🔓 Unlocked | Amazon | [Alt Solution](./SQL_Scripts/cities_alt.sql) |
