@@ -1,4 +1,4 @@
-# 🦉 DataLemur SQL Challenges – Solutions  
+
 <p align="center">
   <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100"/>
 </p>
