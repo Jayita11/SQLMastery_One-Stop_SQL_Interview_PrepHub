@@ -16,7 +16,6 @@ Each challenge is cataloged with:
 - **Solution**: Link to the SQL script in this repository  
 - **Locked/Unlocked**: Indicates if the question requires a **paid subscription** or is **free**  
 - **Company**: Real-world company where this question appeared  
-- **Alternative Approach**: Link to another optimized solution (if available)  
 ## Table Of Contents
 
 - [Easy](#easy)
@@ -24,11 +23,9 @@ Each challenge is cataloged with:
 - [Hard](#hard)
 ### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(1/35)** 
 
-| ID  | Challenge | Solution | Locked/Unlocked | Company | Alternative Approach |
-|----|---------------------------------|-----------|----------------|---------|----------------------|
-| 01  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/Well%20Paid%20Employees.sql) | 🔓 Unlocked | FAANG |  |
-| 02  | [Page With No Likes](https://datalemur.com) | [Solution](./SQL_Scripts/page_no_likes.sql) | 🔒 Locked | Facebook | - |
-| 03  | [Laptop vs Mobile Viewership](https://datalemur.com) | [Solution](./SQL_Scripts/laptop_vs_mobile.sql) | 🔓 Unlocked | Netflix | [Alt Solution](./SQL_Scripts/laptop_alt.sql) |
+| ID  | Challenge | Solution | Locked/Unlocked | Company | 
+|----|---------------------------------|-----------|----------------|---------|
+| 01  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/Well%20Paid%20Employees.sql) | 🔓 Unlocked | FAANG | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
