@@ -1,84 +1,49 @@
-\documentclass{article}
-\usepackage{hyperref}
-\usepackage{graphicx}
-\usepackage{booktabs}
+# 🦉 DataLemur SQL Challenges – Solutions  
 
-\title{\huge \textbf{🦉 DataLemur SQL Challenges – Solutions}}
-\author{}
-\date{}
+## 📌 Overview  
+This repository contains solutions to SQL challenges from [DataLemur](https://datalemur.com/). These challenges span **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks.  
 
-\begin{document}
+Each solution is written in **PostgreSQL** and structured for clarity, efficiency, and readability.  
 
-\maketitle
+## 📂 Repository Structure  
+The repository is organized into the following directories:  
 
-\section*{📌 Overview}
-This repository contains solutions to SQL challenges from \href{https://datalemur.com/}{DataLemur}. These challenges span \textbf{Easy, Medium, and Hard} difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks.
 
-Each solution is written in \textbf{PostgreSQL} and structured for clarity, efficiency, and readability.
+## 🏆 Challenge Categories  
+The solutions cover SQL concepts such as:  
+✔️ Window Functions  
+✔️ Joins & Subqueries  
+✔️ Aggregations  
+✔️ Common Table Expressions (CTEs)  
+✔️ String & Date Functions  
+✔️ Performance Optimization  
 
-\section*{📂 Repository Structure}
-The repository is organized into the following directories:
-\begin{itemize}
-    \item \textbf{📁 SQL\_Scripts/} – Contains SQL solution scripts for each challenge.
-    \item \textbf{📁 Notebooks/} – Jupyter notebooks with step-by-step explanations for complex queries.
-    \item \textbf{📁 Resources/} – Additional resources, including schemas, diagrams, and reference materials.
-\end{itemize}
+## 📜 Solution Table  
+Each challenge is cataloged with:  
 
-\section*{🏆 Challenge Categories}
-The solutions cover SQL concepts such as:
-\begin{itemize}
-    \item ✔️ Window Functions
-    \item ✔️ Joins \& Subqueries
-    \item ✔️ Aggregations
-    \item ✔️ Common Table Expressions (CTEs)
-    \item ✔️ String \& Date Functions
-    \item ✔️ Performance Optimization
-\end{itemize}
+- **ID**: Challenge number  
+- **Challenge**: Link to the DataLemur challenge  
+- **Solution**: Link to the SQL script in this repository  
 
-\section*{📜 Solution Table}
-Each challenge is cataloged with:
-\begin{itemize}
-    \item \textbf{ID}: Challenge number
-    \item \textbf{Problem Link}: Direct link to the DataLemur challenge
-    \item \textbf{Solution}: Link to the SQL script in this repository
-\end{itemize}
+| ID  | Challenge | Solution |
+|----|------------------------------|-----------|
+| 01  | [Cities With Completed Trades](https://datalemur.com) | [Solution](./SQL_Scripts/cities_completed_trades.sql) |
+| 02  | [Page With No Likes](https://datalemur.com) | [Solution](./SQL_Scripts/page_no_likes.sql) |
+| 03  | [Laptop vs Mobile Viewership](https://datalemur.com) | [Solution](./SQL_Scripts/laptop_vs_mobile.sql) |  
+| ... | *More challenges coming soon!* | ✅ |
 
-\begin{table}[h]
-    \centering
-    \begin{tabular}{clc}
-        \toprule
-        \textbf{ID} & \textbf{Challenge} & \textbf{Solution} \\
-        \midrule
-        01 & \href{https://datalemur.com}{Cities With Completed Trades} & \href{./SQL\_Scripts/cities\_completed\_trades.sql}{SQL} \\
-        02 & \href{https://datalemur.com}{Page With No Likes} & \href{./SQL\_Scripts/page\_no\_likes.sql}{SQL} \\
-        03 & \href{https://datalemur.com}{Laptop vs Mobile Viewership} & \href{./SQL\_Scripts/laptop\_vs\_mobile.sql}{SQL} \\
-        ... & \textit{More challenges} & ✅ \\
-        \bottomrule
-    \end{tabular}
-\end{table}
+📌 **Full list available in the repository!**  
 
-📌 \textbf{Complete list available in the repository!}
+## 📊 Why This Repository?  
+- 🚀 **Learn SQL Efficiently**: Real-world SQL problems covering essential concepts.  
+- 🎯 **Interview Preparation**: Practice questions frequently asked in data science and engineering interviews.  
+- 📖 **Well-Documented**: Each solution includes explanations and optimized queries.  
+- 💡 **Two Formats**: Solutions are available as raw SQL scripts and well-documented notebooks.  
 
-\section*{📊 Why This Repository?}
-\begin{itemize}
-    \item \textbf{🚀 Learn SQL Efficiently}: Real-world SQL problems covering essential concepts.
-    \item \textbf{🎯 Interview Preparation}: Practice questions frequently asked in data science and engineering interviews.
-    \item \textbf{📖 Well-Documented}: Each solution includes explanations and optimized queries.
-    \item \textbf{💡 Two Formats}: Solutions are available as raw SQL scripts and as well-documented notebooks.
-\end{itemize}
+## 📌 How to Use  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/DataLemur-SQL-Solutions.git
+   cd DataLemur-SQL-Solutions
 
-\section*{📌 How to Use}
-\begin{enumerate}
-    \item Clone the repository:
-    \begin{verbatim}
-    git clone https://github.com/yourusername/DataLemur-SQL-Solutions.git
-    cd DataLemur-SQL-Solutions
-    \end{verbatim}
-    \item Explore solutions in the \texttt{SQL\_Scripts/} or \texttt{Notebooks/} folder.
-    \item Run queries in \textbf{PostgreSQL} (or adapt them for your database).
-\end{enumerate}
-
-\section*{🚀 Happy Querying!}
-📧 Questions? Feel free to open an issue or connect with me on \href{https://linkedin.com/in/yourprofile}{LinkedIn}.
-
-\end{document}
+This README is fully **GitHub-compatible** with Markdown formatting, proper headings, bullet points, and tables. You can **copy-paste** this directly into your `README.md` file in your GitHub repo. Let me know if you need any modifications! 🚀
