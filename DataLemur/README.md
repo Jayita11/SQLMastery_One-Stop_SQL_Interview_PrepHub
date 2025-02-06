@@ -8,20 +8,6 @@
 ## 📌 Overview  
 This repository contains solutions to SQL challenges from [DataLemur](https://datalemur.com/). These challenges range across **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **PostgreSQL** and structured for clarity, efficiency, and readability.  
 
-
-## 📂 Repository Structure  
-The repository is organized into the following directories:  
-
-
-## 🏆 Challenge Categories  
-The solutions cover SQL concepts such as:  
-✔️ Window Functions  
-✔️ Joins & Subqueries  
-✔️ Aggregations  
-✔️ Common Table Expressions (CTEs)  
-✔️ String & Date Functions  
-✔️ Performance Optimization  
-
 ## 📜 Solution Table  
 Each challenge is cataloged with:  
 
