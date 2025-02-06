@@ -1,83 +1,84 @@
-# SQLMastery: One-Stop SQL Interview Prep Hub  
+\documentclass{article}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{booktabs}
 
-Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL interviews! Whether you’re a beginner or an advanced SQL enthusiast, this repo is packed with resources, real-world case studies, company-specific questions, and fun SQL games to sharpen your skills.
+\title{\huge \textbf{🦉 DataLemur SQL Challenges – Solutions}}
+\author{}
+\date{}
 
-## Table of Contents  
+\begin{document}
 
-1. **[Introduction](#Introduction)**  
+\maketitle
 
-2. **[Solutions by Platform](#solutions-by-platform)**  
+\section*{📌 Overview}
+This repository contains solutions to SQL challenges from \href{https://datalemur.com/}{DataLemur}. These challenges span \textbf{Easy, Medium, and Hard} difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks.
 
-3. **[Company-Specific Questions](#company-specific-questions)**  
+Each solution is written in \textbf{PostgreSQL} and structured for clarity, efficiency, and readability.
 
-4. **[SQL Case Studies](#sql-case-studies)**  
+\section*{📂 Repository Structure}
+The repository is organized into the following directories:
+\begin{itemize}
+    \item \textbf{📁 SQL\_Scripts/} – Contains SQL solution scripts for each challenge.
+    \item \textbf{📁 Notebooks/} – Jupyter notebooks with step-by-step explanations for complex queries.
+    \item \textbf{📁 Resources/} – Additional resources, including schemas, diagrams, and reference materials.
+\end{itemize}
 
-5. **[SQL Games](#sql-games)**  
+\section*{🏆 Challenge Categories}
+The solutions cover SQL concepts such as:
+\begin{itemize}
+    \item ✔️ Window Functions
+    \item ✔️ Joins \& Subqueries
+    \item ✔️ Aggregations
+    \item ✔️ Common Table Expressions (CTEs)
+    \item ✔️ String \& Date Functions
+    \item ✔️ Performance Optimization
+\end{itemize}
 
-6. **[SQL Interview Theory](#sql-interview-theory)**  
+\section*{📜 Solution Table}
+Each challenge is cataloged with:
+\begin{itemize}
+    \item \textbf{ID}: Challenge number
+    \item \textbf{Problem Link}: Direct link to the DataLemur challenge
+    \item \textbf{Solution}: Link to the SQL script in this repository
+\end{itemize}
 
-7. **[Usage Instructions](#usage-instructions)**  
+\begin{table}[h]
+    \centering
+    \begin{tabular}{clc}
+        \toprule
+        \textbf{ID} & \textbf{Challenge} & \textbf{Solution} \\
+        \midrule
+        01 & \href{https://datalemur.com}{Cities With Completed Trades} & \href{./SQL\_Scripts/cities\_completed\_trades.sql}{SQL} \\
+        02 & \href{https://datalemur.com}{Page With No Likes} & \href{./SQL\_Scripts/page\_no\_likes.sql}{SQL} \\
+        03 & \href{https://datalemur.com}{Laptop vs Mobile Viewership} & \href{./SQL\_Scripts/laptop\_vs\_mobile.sql}{SQL} \\
+        ... & \textit{More challenges} & ✅ \\
+        \bottomrule
+    \end{tabular}
+\end{table}
 
-8. **[Contribution](#contribution)**  
+📌 \textbf{Complete list available in the repository!}
 
-9. **[License](#license)**  
+\section*{📊 Why This Repository?}
+\begin{itemize}
+    \item \textbf{🚀 Learn SQL Efficiently}: Real-world SQL problems covering essential concepts.
+    \item \textbf{🎯 Interview Preparation}: Practice questions frequently asked in data science and engineering interviews.
+    \item \textbf{📖 Well-Documented}: Each solution includes explanations and optimized queries.
+    \item \textbf{💡 Two Formats}: Solutions are available as raw SQL scripts and as well-documented notebooks.
+\end{itemize}
 
- 
+\section*{📌 How to Use}
+\begin{enumerate}
+    \item Clone the repository:
+    \begin{verbatim}
+    git clone https://github.com/yourusername/DataLemur-SQL-Solutions.git
+    cd DataLemur-SQL-Solutions
+    \end{verbatim}
+    \item Explore solutions in the \texttt{SQL\_Scripts/} or \texttt{Notebooks/} folder.
+    \item Run queries in \textbf{PostgreSQL} (or adapt them for your database).
+\end{enumerate}
 
-## Introduction  
-I created this repository to help myself and others prepare for SQL interviews. It compiles challenges, real-world case studies, and theoretical interview questions from various platforms and company-specific resources. I will continuously update **SQLMastery** with new content, so feel free to star and fork the repo to stay up-to-date.
+\section*{🚀 Happy Querying!}
+📧 Questions? Feel free to open an issue or connect with me on \href{https://linkedin.com/in/yourprofile}{LinkedIn}.
 
-## Solutions by Platforms  
-A curated collection of SQL problems and solutions from 7 well-known platforms, sorted by easy, medium, and hard difficulty levels. This structure ensures a smooth progression while building SQL skills.
-
-1. **[HackerRank](./hackerrank/README.md)**  
-
-2. **[LeetCode](./leetcode/README.md)**  
-
-3. **[Data Lemur](./data_lemur/README.md)**  
-
-4. **[StrataScratch](./stratascratch/README.md)**  
-
-5. **[Interview Query](./interview_query/README.md)**  
-
-6. **[NamasteSQL by Ankit Bansal](./namaste_sql/README.md)**  
-
-7. **[Codebasics](./codebasics/README.md)**  
-
-## Company-Specific Questions  
-SQL interview questions tailored to specific companies have been compiled:
-
-- **Google**: [Google SQL Challenges](./company_questions/google.md)  
-- **Amazon**: [Amazon SQL Challenges](./company_questions/amazon.md)  
-- **Meta**: [Meta SQL Challenges](./company_questions/meta.md)
-  
-## SQL Case Studies  
-Real-world business problems are showcased to highlight how SQL is applied in analytics and reporting.
-
-
-## SQL Games  
-Engaging and interactive exercises are included to make learning SQL fun and exciting.
-
-
-
-## SQL Interview Theory  
-I’ve summarized common theoretical questions and concepts that are essential for SQL interviews. 
-
-## Usage Instructions  
-Clone the repository:  
-```bash
-git clone https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub.git
-```
-
-## Contribution  
-I welcome contributions to this repository!  
-
-1. Fork this repository.  
-2. Create a new branch (`feature/add-new-content`).  
-3. Add your content under the appropriate section.  
-4. Submit a pull request with a descriptive message.  
-
-## License  
-
-This repository is licensed under the [MIT License](./LICENSE).  
-Please see the LICENSE file for more details.  
+\end{document}
