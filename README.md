@@ -34,7 +34,7 @@ A curated collection of SQL problems and solutions from 7 well-known platforms, 
 
 2. **[LeetCode](./leetcode/README.md)**  
 
-3. **[Data Lemur](./data_lemur/README.md)**  
+3. **[Data Lemur](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/tree/main/DataLemur)**  
 
 4. **[StrataScratch](./stratascratch/README.md)**  
 
