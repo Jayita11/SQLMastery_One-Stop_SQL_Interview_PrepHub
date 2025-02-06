@@ -25,7 +25,7 @@ Each challenge is cataloged with:
 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | 
 |----|---------------------------------|-----------|----------------|---------|
-| 01  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/Well%20Paid%20Employees.sql) | 🔓 Unlocked | FAANG | 
+| 01  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Well_Paid_Employees.sql)) | 🔓 Unlocked | FAANG | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
