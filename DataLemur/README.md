@@ -17,7 +17,11 @@ Each challenge is cataloged with:
 - **Locked/Unlocked**: Indicates if the question requires a **paid subscription** or is **free**  
 - **Company**: Real-world company where this question appeared  
 - **Alternative Approach**: Link to another optimized solution (if available)  
+## Table Of Contents
 
+- [Easy](#easy)
+- [Medium](#medium)
+- [Hard](#hard)
 ### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(1/35)** 
 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Alternative Approach |
