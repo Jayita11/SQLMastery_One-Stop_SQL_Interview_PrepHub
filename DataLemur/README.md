@@ -43,6 +43,27 @@ Each challenge is cataloged with:
 | 03  | [Laptop vs Mobile Viewership](https://datalemur.com) | [Solution](./SQL_Scripts/laptop_vs_mobile.sql) |  
 | ... | *More challenges coming soon!* | ✅ |
 
+## 📜 Solution Table  
+Each challenge is cataloged with:  
+
+- **ID**: Challenge number  
+- **Challenge**: Link to the DataLemur problem  
+- **Solution**: Link to the SQL script in this repository  
+- **Locked/Unlocked**: Indicates if the question requires a **paid subscription** or is **free**  
+- **Difficulty**: Level of the challenge (🟢 Easy, 🟠 Medium, 🔴 Hard)  
+- **Category**: SQL concept tested (Joins, Window Functions, Aggregations, etc.)  
+- **Key Concepts**: Specific SQL techniques used  
+- **Company**: Real-world company where this question appeared  
+- **Alternative Approach**: Link to another optimized solution (if available)  
+- **Database Compatibility**: PostgreSQL, MySQL, etc.  
+- **Execution Time**: Query run time in seconds (if measured)  
+- **Real-World Application**: Business scenario (Finance, Social Media, Healthcare, etc.)  
+
+| ID  | Challenge | Solution | Locked/Unlocked | Difficulty | Category | Key Concepts | Company | Alternative Approach | Database | Execution Time | Real-World Application |
+|----|---------------------------------|-----------|----------------|------------|------------|----------------|---------|----------------------|-----------|---------------|-------------------------|
+| 01  | [Cities With Completed Trades](https://datalemur.com) | [Solution](./SQL_Scripts/cities_completed_trades.sql) | 🔓 Unlocked | 🟢 Easy | Joins | INNER JOIN, COUNT | Amazon | [Alt Solution](./SQL_Scripts/cities_alt.sql) | PostgreSQL | 0.5s | E-commerce |
+| 02  | [Page With No Likes](https://datalemur.com) | [Solution](./SQL_Scripts/page_no_likes.sql) | 🔒 Locked | 🟠 Medium | Aggregations | GROUP BY, HAVING | Facebook | - | MySQL | 0.9s | Social Media |
+| 03  | [Laptop vs Mobile Viewership](https://datalemur.com) | [Solution](./SQL_Scripts/laptop_vs_mobile.sql) | 🔓 Unlocked | 🔴 Hard | Window Functions | ROW
 📌 **Full list available in the repository!**  
 
 ## 📊 Why This Repository?  
