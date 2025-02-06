@@ -42,7 +42,7 @@ Each challenge is cataloged with:
 | 02  | [Page With No Likes](https://datalemur.com) | [Solution](./SQL_Scripts/page_no_likes.sql) | 🔒 Locked | Facebook | - |
 | 03  | [Laptop vs Mobile Viewership](https://datalemur.com) | [Solution](./SQL_Scripts/laptop_vs_mobile.sql) | 🔓 Unlocked | Netflix | [Alt Solution](./SQL_Scripts/laptop_alt.sql) |
 | ... | *More challenges coming soon!* | ✅ |
-📌 **Full list available in the repository!**  
+
 
 ## 📊 Why This Repository?  
 - 🚀 **Learn SQL Efficiently**: Real-world SQL problems covering essential concepts.  
