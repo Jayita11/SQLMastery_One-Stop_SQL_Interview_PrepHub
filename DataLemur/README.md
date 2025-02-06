@@ -44,16 +44,5 @@ Each challenge is cataloged with:
 | ... | *More challenges coming soon!* | ✅ |
 
 
-## 📊 Why This Repository?  
-- 🚀 **Learn SQL Efficiently**: Real-world SQL problems covering essential concepts.  
-- 🎯 **Interview Preparation**: Practice questions frequently asked in data science and engineering interviews.  
-- 📖 **Well-Documented**: Each solution includes explanations and optimized queries.  
-- 💡 **Two Formats**: Solutions are available as raw SQL scripts and well-documented notebooks.  
 
-## 📌 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/DataLemur-SQL-Solutions.git
-   cd DataLemur-SQL-Solutions
 
-This README is fully **GitHub-compatible** with Markdown formatting, proper headings, bullet points, and tables. You can **copy-paste** this directly into your `README.md` file in your GitHub repo. Let me know if you need any modifications! 🚀
