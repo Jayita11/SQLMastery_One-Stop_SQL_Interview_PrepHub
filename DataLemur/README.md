@@ -1,12 +1,7 @@
 
-
-  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo">
-
-
-# 🐵 DataLemur SQL Challenges – Solutions  
 <p align="left">
   <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" align="left">
-  <h1>🐵 DataLemur SQL Challenges – Solutions</h1>
+  <h1> DataLemur SQL Challenges – Solutions</h1>
 </p>
 
 ## 📌 Overview  
