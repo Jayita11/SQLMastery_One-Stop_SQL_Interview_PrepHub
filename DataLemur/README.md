@@ -1,8 +1,10 @@
 
 <p align="left">
-  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" align="left">
-  <h1> DataLemur SQL Challenges – Solutions</h1>
+  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" style="margin-right: 15px;">
+  <span style="font-size: 32px; font-weight: bold;">DataLemur SQL Challenges – Solutions</span>
 </p>
+
+<br><br>
 
 ## 📌 Overview  
 This repository contains solutions to SQL challenges from [DataLemur](https://datalemur.com/). These challenges range across **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **PostgreSQL** and structured for clarity, efficiency, and readability.  
