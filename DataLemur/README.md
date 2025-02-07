@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" style="vertical-align: middle; margin-right: 15px;">
+  <span style="font-size: 32px; font-weight: bold; vertical-align: middle;">DataLemur SQL Challenges – Solutions</span>
+</p>
 
 <p align="left">
   <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" style="margin-right: 15px;">
