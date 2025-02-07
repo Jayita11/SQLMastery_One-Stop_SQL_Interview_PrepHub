@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100"/>
-</p>
+
+  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo">
+
 
 # 🐵 DataLemur SQL Challenges – Solutions  
 
@@ -16,7 +16,7 @@ Each challenge is cataloged with:
 - **Solution**: Link to the SQL script in this repository  
 - **Locked/Unlocked**: Indicates if the question requires a **paid subscription** or is **free**  
 - **Company**: Real-world company where this question appeared  
-## Table Of Contents
+## 📂 Table Of Contents
 
 - [Easy](#easy)
 - [Medium](#medium)
