@@ -3,6 +3,7 @@
   <h1> DataLemur SQL Challenges – Solutions</h1>
 </p>
 
+<br><br>
 
 
 ## 📌 Overview  
