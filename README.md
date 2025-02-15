@@ -80,4 +80,4 @@ I welcome contributions to this repository!
 ## License  
 
 This repository is licensed under the [MIT License](./LICENSE).  
-Please see the LICENSE file for more details.  
+Please see the LICENSE file for more details.
