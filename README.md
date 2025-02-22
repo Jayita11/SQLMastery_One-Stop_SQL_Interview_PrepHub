@@ -73,7 +73,7 @@ git clone https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub.
 I welcome contributions to this repository!  
 
 1. Fork this repository.  
-2. Create a new branch (`feature/add-new-content`).  
+2. Create a new branch (`feature/add-new-content`).
 3. Add your content under the appropriate section.  
 4. Submit a pull request with a descriptive message.  
 
