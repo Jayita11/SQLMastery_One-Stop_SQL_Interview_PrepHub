@@ -16,7 +16,7 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 6. **[SQL Interview Theory](#sql-interview-theory)**  
 
-7. **[Usage Instructions](#usage-instructions)**  
+7. **[Usage Instructions](#usage-instructions)** 
 
 8. **[Contribution](#contribution)**  
 
