@@ -24,14 +24,14 @@ Each challenge is cataloged with:
 - [Hard](#hard)
 ### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(6/35)** 
 
-| ID  | Challenge | Solution | Locked/Unlocked | Company | 
-|----|---------------------------------|-----------|----------------|---------|
-| 01  | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Histogram_of_Tweets%20Solution.sql) | 🔓 Unlocked | Twitter | 
-| 02  | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/02_Data_Science_Skills_Solution.sql) | 🔓 Unlocked | Linkedin | 
-| 03  | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/03_Page_With_No_Likes_Solution.sql) | 🔓 Unlocked | Facebook/Meta | 
-| 04  | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/04_Unfinished_Parts_Solution.sql) | 🔓 Unlocked | Tesla | 
-| 05  | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/05_Laptop_vs._Mobile_Viewership_Solution.sql) | 🔓 Unlocked | New York Times | 
-| 06  | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/06_Average_Post_Hiatus_(Part%201)_Solution.sql) | 🔓 Unlocked | Facebook/Meta | 
+| ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
+|----|---------------------------------|-----------|----------------|---------|---------|
+| 01  | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Histogram_of_Tweets%20Solution.sql) | 🔓 Unlocked | Twitter | PostgreSQL 14 | 
+| 02  | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/02_Data_Science_Skills_Solution.sql) | 🔓 Unlocked | Linkedin | PostgreSQL 14 | 
+| 03  | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/03_Page_With_No_Likes_Solution.sql) | 🔓 Unlocked | Facebook/Meta | PostgreSQL 14 | 
+| 04  | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/04_Unfinished_Parts_Solution.sql) | 🔓 Unlocked | Tesla | PostgreSQL 14 | 
+| 05  | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/05_Laptop_vs._Mobile_Viewership_Solution.sql) | 🔓 Unlocked | New York Times | PostgreSQL 14 | 
+| 06  | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/06_Average_Post_Hiatus_(Part%201)_Solution.sql) | 🔓 Unlocked | Facebook/Meta | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
