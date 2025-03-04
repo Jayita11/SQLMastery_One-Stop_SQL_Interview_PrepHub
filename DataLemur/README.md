@@ -28,6 +28,7 @@ Each challenge is cataloged with:
 |----|---------------------------------|-----------|----------------|---------|
 | 01  | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Histogram_of_Tweets%20Solution.sql) | 🔓 Unlocked | Twitter | 
 | 02  | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/02_Data_Science_Skills_Solution.sql) | 🔓 Unlocked | Linkedin | 
+| 03  | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/03_Page_With_No_Likes_Solution.sql) | 🔓 Unlocked | Facebook/Meta | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
