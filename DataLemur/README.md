@@ -22,7 +22,7 @@ Each challenge is cataloged with:
 - [Easy](#easy)
 - [Medium](#medium)
 - [Hard](#hard)
-### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(5/35)** 
+### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(6/35)** 
 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | 
 |----|---------------------------------|-----------|----------------|---------|
@@ -31,6 +31,7 @@ Each challenge is cataloged with:
 | 03  | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/03_Page_With_No_Likes_Solution.sql) | 🔓 Unlocked | Facebook/Meta | 
 | 04  | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/04_Unfinished_Parts_Solution.sql) | 🔓 Unlocked | Tesla | 
 | 05  | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/05_Laptop_vs._Mobile_Viewership_Solution.sql) | 🔓 Unlocked | New York Times | 
+| 06  | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/06_Average_Post_Hiatus_(Part%201)_Solution.sql) | 🔓 Unlocked | Facebook/Meta | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
