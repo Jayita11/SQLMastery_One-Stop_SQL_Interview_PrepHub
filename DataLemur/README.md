@@ -35,6 +35,8 @@ Each challenge is cataloged with:
 | 07  | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/07_Teams_Power_Users_Solution.sql) | 🔓 Unlocked | Microsoft | PostgreSQL 14 | 
 | 08  | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/08_Duplicate_Job_Listings_Solution.sql) | 🔓 Unlocked | Linkedin | PostgreSQL 14 | 
 | 09  | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/09_Cities_With_Completed_Trades_Solution.sql) | 🔓 Unlocked | Robinhood | PostgreSQL 14 | 
+| 10  | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/10_Average_Review_Ratings_Solution.sql) | 🔓 Unlocked | Amazon | PostgreSQL 14 | 
+| 11  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/11_Well_Paid_Employees_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
