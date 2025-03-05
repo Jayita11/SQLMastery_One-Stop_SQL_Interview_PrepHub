@@ -34,6 +34,7 @@ Each challenge is cataloged with:
 | 06  | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/06_Average_Post_Hiatus_(Part%201)_Solution.sql) | 🔓 Unlocked | Facebook/Meta | PostgreSQL 14 | 
 | 07  | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/07_Teams_Power_Users_Solution.sql) | 🔓 Unlocked | Microsoft | PostgreSQL 14 | 
 | 08  | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/08_Duplicate_Job_Listings_Solution.sql) | 🔓 Unlocked | Linkedin | PostgreSQL 14 | 
+| 09  | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/09_Cities_With_Completed_Trades_Solution.sql) | 🔓 Unlocked | Robinhood | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
