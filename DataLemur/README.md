@@ -32,6 +32,7 @@ Each challenge is cataloged with:
 | 04  | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/04_Unfinished_Parts_Solution.sql) | 🔓 Unlocked | Tesla | PostgreSQL 14 | 
 | 05  | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/05_Laptop_vs._Mobile_Viewership_Solution.sql) | 🔓 Unlocked | New York Times | PostgreSQL 14 | 
 | 06  | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/06_Average_Post_Hiatus_(Part%201)_Solution.sql) | 🔓 Unlocked | Facebook/Meta | PostgreSQL 14 | 
+| 07  | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/07_Teams_Power_Users_Solution.sql) | 🔓 Unlocked | Microsoft | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
