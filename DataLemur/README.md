@@ -37,6 +37,7 @@ Each challenge is cataloged with:
 | 09  | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/09_Cities_With_Completed_Trades_Solution.sql) | 🔓 Unlocked | Robinhood | PostgreSQL 14 | 
 | 10  | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/10_Average_Review_Ratings_Solution.sql) | 🔓 Unlocked | Amazon | PostgreSQL 14 | 
 | 11  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/11_Well_Paid_Employees_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
+| 14  | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/11_Well_Paid_Employees_Solution.sql) | 🔓 Unlocked | Facebook/Meta | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
