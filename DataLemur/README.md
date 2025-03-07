@@ -39,6 +39,7 @@ Each challenge is cataloged with:
 | 11  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/11_Well_Paid_Employees_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
 | 14  | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/14_App_Click-through_Rate_(CTR)_Solution.sql) | 🔓 Unlocked | Facebook/Meta | PostgreSQL 14 | 
 | 15  | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/15_Second_Day_Confirmation_Solution.sql) | 🔓 Unlocked | TikTok | PostgreSQL 14 | 
+| 17  | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/17_Cards_Issued_Difference_Solution.sql) | 🔓 Unlocked | JP Morgan | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
