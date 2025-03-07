@@ -41,6 +41,7 @@ Each challenge is cataloged with:
 | 15  | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/15_Second_Day_Confirmation_Solution.sql) | 🔓 Unlocked | TikTok | PostgreSQL 14 | 
 | 17  | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/17_Cards_Issued_Difference_Solution.sql) | 🔓 Unlocked | JP Morgan | PostgreSQL 14 | 
 | 18  | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/18_Compressed_Mean_Solution.sql) | 🔓 Unlocked | Alibaba | PostgreSQL 14 | 
+| 19  | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/19_Pharmacy_Analytics_(Part%201)_Solution.sql) | 🔓 Unlocked | CVS Health | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
