@@ -4,9 +4,9 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 ## Table of Contents 
 
-1. **[Introduction](#Introduction)** 
+1. **[Introduction](#Introduction)**
 
-2. **[Solutions by Platform](#solutions-by-platform)**  
+2. **[Solutions by Platform](#solutions-by-platform)** 
 
 3. **[Company-Specific Questions](#company-specific-questions)**  
 
