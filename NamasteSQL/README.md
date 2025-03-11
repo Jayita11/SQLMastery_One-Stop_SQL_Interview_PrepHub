@@ -31,7 +31,7 @@ Each challenge is cataloged with:
 
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/65)** 
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [1 - Return Orders Customer Feedback](https://www.namastesql.com/coding-problem/1-return-orders-customer-feedback?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/1_Return_Orders_Customer_Feedback_Solution.sql) | 🔓 Free | Amazon | MySQL | 
