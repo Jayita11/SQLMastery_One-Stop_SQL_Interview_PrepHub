@@ -22,7 +22,7 @@ Each challenge is cataloged with:
 - [Easy](#easy)
 - [Medium](#medium)
 - [Hard](#hard)
-### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(19/35)** 
+### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(20/35)** 
 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
