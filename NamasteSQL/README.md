@@ -7,7 +7,7 @@
 
 
 ## 📌 Overview  
-This repository contains solutions to SQL challenges from [NamasteSQL](https://www.namastesql.com/home). These challenges range across **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **MySQL** and structured for clarity, efficiency, and readability.  
+This repository contains solutions to SQL challenges from [NamasteSQL](https://www.namastesql.com/home). These challenges range across **Easy, Medium, Hard, and Extreme Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **MySQL** and structured for clarity, efficiency, and readability.  
 
 ## 📜 Solution Table  
 Each challenge is cataloged with:  
@@ -23,21 +23,27 @@ Each challenge is cataloged with:
 - [Easy](#easy)
 - [Medium](#medium)
 - [Hard](#hard)
-### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(0/35)** 
+- [Extreme Hard](#extremehard)
+### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(0/17)** 
 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/42)** 
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/65)** 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [1 - Return Orders Customer Feedback](https://www.namastesql.com/coding-problem/1-return-orders-customer-feedback?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/1_Return_Orders_Customer_Feedback_Solution.sql) | 🔓 Free | Amazon | MySQL | 
 
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
+### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/54)**  
+| ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
+|----|---------------------------------|-----------|----------------|---------|---------|
+| ... | *More challenges coming soon!* | ✅ |
+
+### Difficulty: ![Extreme Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/54)**  
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | ... | *More challenges coming soon!* | ✅ |
