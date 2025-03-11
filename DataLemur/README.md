@@ -16,7 +16,8 @@ Each challenge is cataloged with:
 - **Challenge**: Link to the DataLemur problem  
 - **Solution**: Link to the SQL script in this repository  
 - **Locked/Unlocked**: Indicates if the question requires a **paid subscription** or is **free**  
-- **Company**: Real-world company where this question appeared  
+- **Company**: Real-world company where this question appeared
+- **Database Used**: Name of the database used 
 ## 📂 Table Of Contents
 
 - [Easy](#easy)
