@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" align="left">
+  <img src="https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/default-course-img-2842982153.png" alt="NamasteSQL Logo" width="100" align="left">
   <h1> NamasteSQL SQL Challenges – Solutions</h1>
 </p>
 
