@@ -55,6 +55,7 @@ Each challenge is cataloged with:
 | 01  | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/1_User's_Third_Transaction_Solution.sql) | 🔓 Unlocked | Uber | PostgreSQL 14 | 
 | 02  | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/2_Second_Highest_Salary_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
 | 04  | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/4_Tweets'_Rolling_Averages_Solution.sql) | 🔓 Unlocked | Twitter | PostgreSQL 14 | 
+| 05  | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/5_Highest-Grossing_Items_Solution.sql) | 🔓 Unlocked | Amazon | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
