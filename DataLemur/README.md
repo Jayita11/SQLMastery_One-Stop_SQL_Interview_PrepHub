@@ -60,6 +60,7 @@ Each challenge is cataloged with:
 | 07  | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/7_Signup_Activation_Rate_Solution.sql) | 🔓 Unlocked | TikTok | PostgreSQL 14 | 
 | 13  | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/13_Supercloud_Customer_Solution.sql) | 🔓 Unlocked | Microsoft | PostgreSQL 14 | 
 | 14  | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/14_Odd_and_Even_Measurements_Solution.sql) | 🔓 Unlocked | Google | PostgreSQL 14 | 
+| 15  | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/15_Swapped_Food_Delivery_Solution.sql) | 🔓 Unlocked | Zomato | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
