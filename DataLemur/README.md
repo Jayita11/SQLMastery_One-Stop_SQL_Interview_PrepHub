@@ -49,7 +49,7 @@ Each challenge is cataloged with:
 | 22  | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/22_Patient_Support_Analysis_(Part%201)_Solution.sql) | 🔓 Unlocked | UnitedHealth | PostgreSQL 14 |
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(6/42)** 
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(9/42)** 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/1_User's_Third_Transaction_Solution.sql) | 🔓 Unlocked | Uber | PostgreSQL 14 | 
