@@ -59,6 +59,7 @@ Each challenge is cataloged with:
 | 06  | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/6_Top_Three_Salaries_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
 | 07  | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/7_Signup_Activation_Rate_Solution.sql) | 🔓 Unlocked | TikTok | PostgreSQL 14 | 
 | 13  | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/13_Supercloud_Customer_Solution.sql) | 🔓 Unlocked | Microsoft | PostgreSQL 14 | 
+| 14  | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/14_Odd_and_Even_Measurements_Solution.sql) | 🔓 Unlocked | Google | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
