@@ -64,6 +64,7 @@ Each challenge is cataloged with:
 | 20  | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/20_Histogram_of_Users_and%20_Purchases_Solution.sql) | 🔓 Unlocked | Walmart | PostgreSQL 14 | 
 | 22  | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/22_Compressed_Mode_Solution.sql) | 🔓 Unlocked | Alibaba | PostgreSQL 14 | 
 | 23  | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/23_Card_Launch_Success_Solution.sql) | 🔓 Unlocked | JP Morgan | PostgreSQL 14 |
+| 24  | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/24_International_Call_Percentage_Solution.sql) | 🔓 Unlocked | Verizon | PostgreSQL 14 |
 | 25  | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/25_Patient_Support_Analysis_(Part%202)_Solution.sql) | 🔓 Unlocked | JP UnitedHealth | PostgreSQL 14 |
 | ... | *More challenges coming soon!* | ✅ |
 
