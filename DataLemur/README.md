@@ -63,6 +63,7 @@ Each challenge is cataloged with:
 | 15  | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/15_Swapped_Food_Delivery_Solution.sql) | 🔓 Unlocked | Zomato | PostgreSQL 14 | 
 | 20  | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/20_Histogram_of_Users_and%20_Purchases_Solution.sql) | 🔓 Unlocked | Walmart | PostgreSQL 14 | 
 | 22  | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/22_Compressed_Mode_Solution.sql) | 🔓 Unlocked | Alibaba | PostgreSQL 14 | 
+| 23  | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/23_Card_Launch_Success_Solution.sql) | 🔓 Unlocked | JP Morgan | PostgreSQL 14 |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
