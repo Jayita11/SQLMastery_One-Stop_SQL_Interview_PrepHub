@@ -61,6 +61,7 @@ Each challenge is cataloged with:
 | 13  | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/13_Supercloud_Customer_Solution.sql) | 🔓 Unlocked | Microsoft | PostgreSQL 14 | 
 | 14  | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/14_Odd_and_Even_Measurements_Solution.sql) | 🔓 Unlocked | Google | PostgreSQL 14 | 
 | 15  | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/15_Swapped_Food_Delivery_Solution.sql) | 🔓 Unlocked | Zomato | PostgreSQL 14 | 
+| 20  | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/20_Histogram_of_Users_and%20_Purchases_Solution.sql) | 🔓 Unlocked | Walmart | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
