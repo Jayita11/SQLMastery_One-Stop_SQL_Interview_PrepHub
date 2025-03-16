@@ -30,6 +30,8 @@ Each challenge is cataloged with:
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 02  | [2 - Product Category](https://www.namastesql.com/coding-problem/2-product-category?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/2_Product_Category_Solution.sql) | 🔒 Premium | Walmart | MySQL | 
 | 06  | [6 - Electricity Consumption](https://www.namastesql.com/coding-problem/6-electricity-consumption?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/6_Electricity_Consumption_Solution.sql) | 🔒 Premium | Infosys | MySQL | 
+| 08  | [8 - Library Borrowing Habits](https://www.namastesql.com/coding-problem/8-library-borrowing-habits?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/8_Library_Borrowing_Habits_Solution.sql) | 🔒 Premium | Adobe | MySQL | 
+| 08  | [8 - Library Borrowing Habits](https://www.namastesql.com/coding-problem/8-library-borrowing-habits?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/8_Library_Borrowing_Habits_Solution.sql) | 🔒 Premium | Adobe | MySQL | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
