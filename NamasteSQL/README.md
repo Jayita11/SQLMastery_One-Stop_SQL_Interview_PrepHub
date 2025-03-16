@@ -37,6 +37,7 @@ Each challenge is cataloged with:
 | 38  | [38 - Product Reviews](https://www.namastesql.com/coding-problem/38-product-reviews?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/38_Product_Reviews_Solution.sql) | 🔒 Premium | Flipkart | MySQL |
 | 61  | [61 - Category Sales (Part 1)](https://www.namastesql.com/coding-problem/61-category-sales-part-1?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/61_Category_Sales_(Part%201).sql) | 🔒 Premium | Flipkart | MySQL |
 | 62  | [62 - Category Sales (Part 2)](https://www.namastesql.com/coding-problem/62-category-sales-part-2?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/62_Category_Sales_(Part%202).sql) | 🔒 Premium | Flipkart | MySQL |
+| 71  | [71 - Department Average Salary](https://www.namastesql.com/coding-problem/71-department-average-salary?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/71_Department_Average_Salary.sql) | 🔒 Premium | Tcs | MySQL |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
