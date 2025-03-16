@@ -39,6 +39,8 @@ Each challenge is cataloged with:
 | 62  | [62 - Category Sales (Part 2)](https://www.namastesql.com/coding-problem/62-category-sales-part-2?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/62_Category_Sales_(Part%202).sql) | 🔒 Premium | Flipkart | MySQL |
 | 71  | [71 - Department Average Salary](https://www.namastesql.com/coding-problem/71-department-average-salary?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/71_Department_Average_Salary.sql) | 🔒 Premium | Tcs | MySQL |
 | 72  | [72 - Product Sales](https://www.namastesql.com/coding-problem/72-product-sales?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/72_Product_Sales_Solution.sql) | 🔒 Premium | Infosys | MySQL |
+| 73  | [73 - Category Product Count](https://www.namastesql.com/coding-problem/73-category-product-count?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://www.namastesql.com/coding-problem/73-category-product-count?level_id=82791DA7C5D439BA&page=2&pageSize=10) | 🔒 Premium | Deloitte | MySQL |
+| 94  | [94 - GAP Sales](https://www.namastesql.com/coding-problem/94-gap-sales?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/94_GAP_Sales_Solution.sql) | 🔒 Premium | Ibm | MySQL |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
