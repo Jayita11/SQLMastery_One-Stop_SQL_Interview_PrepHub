@@ -35,6 +35,7 @@ Each challenge is cataloged with:
 | 12  | [12 - Deliveroo Top Customer](https://www.namastesql.com/coding-problem/12-deliveroo-top-customer?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/12_Deliveroo_Top_Customer_Solution.sql) | 🔒 Premium | Fractal analytics | MySQL | 
 | 30  | [30 - Employee Salary Levels](https://www.namastesql.com/coding-problem/30-employee-salary-levels?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/30_Employee_Salary_Levels.sql) | 🔒 Premium | Accenture | MySQL |
 | 38  | [38 - Product Reviews](https://www.namastesql.com/coding-problem/38-product-reviews?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/38_Product_Reviews_Solution.sql) | 🔒 Premium | Flipkart | MySQL |
+| 61  | [61 - Category Sales (Part 1)](https://www.namastesql.com/coding-problem/61-category-sales-part-1?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/61_Category_Sales_(Part%201).sql) | 🔒 Premium | Flipkart | MySQL |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
