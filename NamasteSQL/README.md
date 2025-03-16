@@ -42,6 +42,7 @@ Each challenge is cataloged with:
 | 73  | [73 - Category Product Count](https://www.namastesql.com/coding-problem/73-category-product-count?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://www.namastesql.com/coding-problem/73-category-product-count?level_id=82791DA7C5D439BA&page=2&pageSize=10) | 🔒 Premium | Deloitte | MySQL |
 | 94  | [94 - GAP Sales](https://www.namastesql.com/coding-problem/94-gap-sales?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/94_GAP_Sales_Solution.sql) | 🔒 Premium | Ibm | MySQL |
 | 95  | [95 - Electronics Items Sale](https://www.namastesql.com/coding-problem/95-electronics-items-sale?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/95_Electronics_Items_Sale_Solution.sql) | 🔒 Premium | Infosys | MySQL |
+| 97  | [97 - Domain Names](https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10) | 🔒 Premium | Deloitte | MySQL |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
