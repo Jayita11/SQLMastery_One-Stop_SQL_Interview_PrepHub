@@ -24,7 +24,7 @@ Each challenge is cataloged with:
 - [Medium](#medium)
 - [Hard](#hard)
 - [Extreme Hard](#extremehard)
-### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(0/17)** 
+### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(17/17)** 
 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
@@ -45,7 +45,7 @@ Each challenge is cataloged with:
 | 15  | [97 - Domain Names](https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10) | 🔒 Premium | Deloitte | MySQL |
 | 16  | [103 - Employee Mentor](https://www.namastesql.com/coding-problem/103-employee-mentor?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/103_Employee_Mentor_Solution.sql) | 🔒 Premium | Deloitte | MySQL |
 | 17  | [106 - Subject Average Score](https://www.namastesql.com/coding-problem/106-subject-average-score?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/106_Subject_Average_Score_Solution.sql) | 🔒 Premium | Linkedin | MySQL |
-| ... | *More challenges coming soon!* | ✅ |
+
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
