@@ -43,12 +43,13 @@ Each challenge is cataloged with:
 | 94  | [94 - GAP Sales](https://www.namastesql.com/coding-problem/94-gap-sales?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/94_GAP_Sales_Solution.sql) | 🔒 Premium | Ibm | MySQL |
 | 95  | [95 - Electronics Items Sale](https://www.namastesql.com/coding-problem/95-electronics-items-sale?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/95_Electronics_Items_Sale_Solution.sql) | 🔒 Premium | Infosys | MySQL |
 | 97  | [97 - Domain Names](https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10https://www.namastesql.com/coding-problem/97-domain-names?level_id=82791DA7C5D439BA&page=2&pageSize=10) | 🔒 Premium | Deloitte | MySQL |
+| 103  | [103 - Employee Mentor](https://www.namastesql.com/coding-problem/103-employee-mentor?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/103_Employee_Mentor_Solution.sql) | 🔒 Premium | Deloitte | MySQL |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
-| 01  | [1 - Return Orders Customer Feedback](https://www.namastesql.com/coding-problem/1-return-orders-customer-feedback?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/1_Return_Orders_Customer_Feedback_Solution.sql) | 🔓 Free | Amazon | MySQL | 
+| 01  | [1 - Return Orders Customer Feedback](https://www.namastesql.com/coding-problem/1-return-orders-customer-feedback?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/1_Return_Orders_Customer_Feedback_Solution.sql) | 🔓 Free | Deloitte | MySQL | 
 
 | ... | *More challenges coming soon!* | ✅ |
 
