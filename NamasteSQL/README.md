@@ -59,7 +59,7 @@ Each challenge is cataloged with:
 |----|---------------------------------|-----------|----------------|---------|---------|
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty: ![Extreme Hard](https://img.shields.io/badge/Difficulty-Extreme Hard-brightgreen) **(0/7)**  
+### Difficulty: ![Extreme Hard](https://img.shields.io/badge/Difficulty-Extreme-Hard-brightgreen) **(0/7)**  
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | ... | *More challenges coming soon!* | ✅ |
