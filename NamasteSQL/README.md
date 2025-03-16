@@ -28,7 +28,7 @@ Each challenge is cataloged with:
 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
-
+| 02  | [2 - Product Category](https://www.namastesql.com/coding-problem/2-product-category?level_id=82791DA7C5D439BA&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/2_Product_Category_Solution.sql) | 🔒 Premium | Walmart | MySQL | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(1/65)** 
