@@ -52,6 +52,7 @@ Each challenge is cataloged with:
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [1 - Return Orders Customer Feedback](https://www.namastesql.com/coding-problem/1-return-orders-customer-feedback?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/1_Return_Orders_Customer_Feedback_Solution.sql) | 🔓 Free | Deloitte | MySQL | 
 | 02  | [3 - LinkedIn Top Voice](https://www.namastesql.com/coding-problem/3-linkedin-top-voice?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/3_LinkedIn_Top_Voice_Solution.sql) | 🔓 Free |Linkedin | MySQL | 
+| 03  | [4 - Premium Customers](https://www.namastesql.com/coding-problem/4-premium-customers?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/4_Premium_Customers_Solution.sql) | 🔓 Free |Amazon | MySQL | 
 
 | ... | *More challenges coming soon!* | ✅ |
 
