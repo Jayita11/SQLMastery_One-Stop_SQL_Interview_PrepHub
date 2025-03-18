@@ -17,7 +17,7 @@ Each challenge is cataloged with:
 - **Solution**: Link to the SQL script in this repository  
 - **Free/Premium**: Indicates if the question requires a **paid subscription** or is **free**  
 - **Company**: Real-world company where this question appeared
-- **Database Used**: Name of the database used 
+- **Database Used**: Name of the database used  
 ## 📂 Table Of Contents
 
 - [Easy](#easy)
