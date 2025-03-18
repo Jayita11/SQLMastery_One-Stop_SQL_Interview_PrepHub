@@ -47,7 +47,7 @@ Each challenge is cataloged with:
 | 17  | [106 - Subject Average Score](https://www.namastesql.com/coding-problem/106-subject-average-score?level_id=82791DA7C5D439BA&page=2&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Easy/106_Subject_Average_Score_Solution.sql) | 🔒 Premium | Linkedin | MySQL |
 
 
-### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(4/65)** 
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(5/65)** 
 | ID  | Challenge | Solution | Free/Premium | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [1 - Return Orders Customer Feedback](https://www.namastesql.com/coding-problem/1-return-orders-customer-feedback?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/1_Return_Orders_Customer_Feedback_Solution.sql) | 🔓 Free | Deloitte | MySQL | 
