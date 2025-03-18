@@ -22,7 +22,7 @@ Each challenge is cataloged with:
 
 - [Easy](#easy)
 - [Medium](#medium)
-- [Hard](#hard)
+- [Hard](#hard) 
 - [Extreme Hard](#extremehard)
 ### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(17/17)** 
 
