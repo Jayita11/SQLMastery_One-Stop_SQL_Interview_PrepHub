@@ -55,7 +55,7 @@ Each challenge is cataloged with:
 | 03  | [4 - Premium Customers](https://www.namastesql.com/coding-problem/4-premium-customers?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/4_Premium_Customers_Solution.sql) | 🔓 Free |Amazon | MySQL | 
 | 04  | [7 - Airbnb Top Hosts](https://www.namastesql.com/coding-problem/7-airbnb-top-hosts?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/13_Best_Employee_Award_Solution.sql) | 🔓 Free |TCS | MySQL | 
 | 05  | [13 - Best Employee Award](https://www.namastesql.com/coding-problem/13-best-employee-award?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/7_Airbnb_Top_Hosts_Solution.sql) | 🔓 Free |Airbnb | MySQL | 
-| 06  | [17 - Business Expansion](https://www.namastesql.com/coding-problem/17-business-expansion?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10\) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/17_Business_Expansion_Solution.sql) | 🔓 Free |Amazon | MySQL | 
+| 06  | [17 - Business Expansion](https://www.namastesql.com/coding-problem/17-business-expansion?level_id=7A8BBAB6D859DFC1&page=1&pageSize=10) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/Medium/17_Business_Expansion_Solution.sql) | 🔓 Free |Amazon | MySQL | 
 
 | ... | *More challenges coming soon!* | ✅ |
 
