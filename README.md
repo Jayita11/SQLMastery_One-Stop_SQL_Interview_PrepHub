@@ -20,7 +20,7 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 8. **[Contribution](#contribution)** 
 
-9. **[License](#license)**
+9. **[License](#license)** 
 
  
 
