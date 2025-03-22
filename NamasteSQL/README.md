@@ -20,7 +20,7 @@ Each challenge is cataloged with:
 - **Database Used**: Name of the database used  
 ## 📂 Table Of Contents
 
-- [Easy](#easy)
+- [Easy](#easy) 
 - [Medium](#medium)
 - [Hard](#hard) 
 - [Extreme Hard](#extremehard)
