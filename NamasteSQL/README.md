@@ -12,7 +12,7 @@ This repository contains solutions to SQL challenges from [NamasteSQL](https://w
 ## 📜 Solution Table   
 Each challenge is cataloged with:   
 
-- **ID**: Challenge number  
+- **ID**: Challenge number   
 - **Challenge**: Link to the DataLemur problem  
 - **Solution**: Link to the SQL script in this repository  
 - **Free/Premium**: Indicates if the question requires a **paid subscription** or is **free**  
