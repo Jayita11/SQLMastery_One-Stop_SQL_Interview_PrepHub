@@ -9,7 +9,7 @@
 ## 📌 Overview    
 This repository contains solutions to SQL challenges from [NamasteSQL](https://www.namastesql.com/home). These challenges range across **Easy, Medium, Hard, and Extreme Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **MySQL** and structured for clarity, efficiency, and readability.  
 
-## 📜 Solution Table   
+## 📜 Solution Table    
 Each challenge is cataloged with:   
 
 - **ID**: Challenge number   
