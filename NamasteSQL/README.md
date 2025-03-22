@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/NamasteSQL/default-course-img-2842982153.png" alt="NamasteSQL Logo" width="100" align="left">
-  <h1> NamasteSQL SQL Challenges – Solutions</h1>
+  <h1> NamasteSQL SQL Challenges – Solutions</h1> 
 </p>
 
 <br><br>
