@@ -18,7 +18,7 @@ Each challenge is cataloged with:
 - **Free/Premium**: Indicates if the question requires a **paid subscription** or is **free**  
 - **Company**: Real-world company where this question appeared
 - **Database Used**: Name of the database used  
-## 📂 Table Of Contents
+## 📂 Table Of Contents 
 
 - [Easy](#easy)  
 - [Medium](#medium) 
