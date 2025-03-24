@@ -29,8 +29,7 @@ Each challenge is cataloged with:
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [Revising the Selec _Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/HackerRank/Easy/01_Revising_the_Select_Query_%7C_Solution.sql) |SQL Basic | Basic Select | MySQL |  
 | 02  | [Revising the Selec _Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/HackerRank/Easy/02_Revising_the_Select_Query_II_Solution.sql) | SQL Basic | Basic Select | MySQL |    
-| 03  | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/HackerRank/Easy/03_Select_All_Solution.sql) | SQL Basic | 
-Basic Select | MySQL | 
+| 03  | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/HackerRank/Easy/03_Select_All_Solution.sql) | SQL Basic | Basic Select | MySQL | 
 
 | ... | *More challenges coming soon!* | ✅ |
 
