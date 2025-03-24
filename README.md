@@ -32,7 +32,7 @@ A curated collection of SQL problems and solutions from 7 well-known platforms, 
 
 1. **[HackerRank](./hackerrank/README.md)**    
 
-2. **[LeetCode](./leetcode/README.md)**  
+2. **[LeetCode](./leetcode/README.md)**   
 
 3. **[Data Lemur](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/tree/main/DataLemur)**  
 
