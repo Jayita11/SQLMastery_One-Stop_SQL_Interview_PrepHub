@@ -63,7 +63,7 @@ Engaging and interactive exercises are included to make learning SQL fun and exc
 ## SQL Challenges
 A collection of engaging and interactive SQL challenges I've participated in. I'll be updating this space regularly with the questions and my solutions. Stay tuned!
 
-
+1. **[PrepVector 𝟭𝟱-𝗗𝗮𝘆 𝗦𝗤𝗟 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/tree/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge)**
 
 ## SQL Interview Theory  
 I’ve summarized common theoretical questions and concepts that are essential for SQL interviews. 
