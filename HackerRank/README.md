@@ -27,9 +27,10 @@ Each challenge is cataloged with:
 
 | ID  | Challenge | Solution | Skills | Sub Domains | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
-| 01  | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Histogram_of_Tweets%20Solution.sql) | 🔓 Unlocked | Twitter | PostgreSQL 14 | 
+| 01  | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Histogram_of_Tweets%20Solution.sql) | SQL Basic | Twitter | PostgreSQL 14 | 
 | 02  | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Histogram_of_Tweets%20Solution.sql) | 🔓 Unlocked | Twitter | PostgreSQL 14 | 
-| 03  | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/HackerRank/Easy/03_Select_All_Solution.sql) | 🔓 Unlocked | Twitter | PostgreSQL 14 | 
+| 03  | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/HackerRank/Easy/03_Select_All_Solution.sql) | SQL Basic | 
+Basic Select | MySQL | 
 
 | ... | *More challenges coming soon!* | ✅ |
 
