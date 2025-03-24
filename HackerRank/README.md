@@ -16,29 +16,29 @@ Each challenge is cataloged with:
 - **Challenge**: Link to the DataLemur problem  
 - **Solution**: Link to the SQL script in this repository  
 - **Skills**: Indicates if the question is part of Basic, Intermediate, or advanced  
-- **SUBDOMAINS**: Basic Select, Advanced Select,Aggregation,Basic Join,Advanced Join
+- **Sub Domains**: Basic Select, Advanced Select,Aggregation,Basic Join,Advanced Join
 - **Database Used**: Name of the database used 
 ## 📂 Table Of Contents
 
 - [Easy](#easy)
 - [Medium](#medium)
 - [Hard](#hard)
-### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(20/35)** 
+### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(0/40)** 
 
-| ID  | Challenge | Solution | Skills | SUBDOMAINS | Database Used | 
+| ID  | Challenge | Solution | Skills | Sub Domains | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/01_Histogram_of_Tweets%20Solution.sql) | 🔓 Unlocked | Twitter | PostgreSQL 14 | 
 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
-| ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
+| ID  | Challenge | Solution | Skills | Sub Domains | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
-| ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
+| ID  | Challenge | Solution | Skills | Sub Domains | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | ... | *More challenges coming soon!* | ✅ |
 
