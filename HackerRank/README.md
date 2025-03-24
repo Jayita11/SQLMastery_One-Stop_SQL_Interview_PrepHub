@@ -31,7 +31,7 @@ Each challenge is cataloged with:
 
 | ... | *More challenges coming soon!* | ✅ |
 
-### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(0/16)** 
 | ID  | Challenge | Solution | Skills | Sub Domains | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 
