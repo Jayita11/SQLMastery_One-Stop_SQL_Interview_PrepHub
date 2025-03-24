@@ -12,7 +12,7 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 4. **[SQL Case Studies](#sql-case-studies)** 
 
-5. **[SQL Games](#sql-games)**  
+5. **[SQL Games](#sql-games)**   
 
 6. **[SQL Interview Theory](#sql-interview-theory)**  
 
