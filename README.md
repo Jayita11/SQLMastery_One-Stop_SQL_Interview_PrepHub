@@ -32,7 +32,7 @@ I created this repository to help myself and others prepare for SQL interviews. 
 ## Solutions by Platforms  
 A curated collection of SQL problems and solutions from 7 well-known platforms, sorted by easy, medium, and hard difficulty levels. This structure ensures a smooth progression while building SQL skills.  
 
-1. **[HackerRank](./hackerrank/README.md)**    
+1. **[HackerRank](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/tree/main/HackerRank)**    
 
 2. **[LeetCode](./leetcode/README.md)**   
 
