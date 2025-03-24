@@ -60,6 +60,9 @@ Real-world business problems are showcased to highlight how SQL is applied in an
 ## SQL Games  
 Engaging and interactive exercises are included to make learning SQL fun and exciting.
 
+## SQL Challenges
+A collection of engaging and interactive SQL challenges I've participated in. I'll be updating this space regularly with the questions and my solutions. Stay tuned!
+
 
 
 ## SQL Interview Theory  
