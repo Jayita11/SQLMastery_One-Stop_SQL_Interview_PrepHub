@@ -12,15 +12,17 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 4. **[SQL Case Studies](#sql-case-studies)** 
 
-5. **[SQL Games](#sql-games)**    
+5. **[SQL Games](#sql-games)**
+   
+7.  **[SQL Challenges](#sql-games)**
 
-6. **[SQL Interview Theory](#sql-interview-theory)**  
+8. **[SQL Interview Theory](#sql-interview-theory)**  
 
-7. **[Usage Instructions](#usage-instructions)** 
+9. **[Usage Instructions](#usage-instructions)** 
 
-8. **[Contribution](#contribution)** 
+10. **[Contribution](#contribution)** 
 
-9. **[License](#license)**   
+11. **[License](#license)**   
 
  
 
