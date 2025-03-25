@@ -50,6 +50,7 @@ Each challenge is cataloged with:
 | 21  | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/21_Pharmacy_Analytics_(Part%203)_Solution.sql) | 🔓 Unlocked | CVS Health| PostgreSQL 14 |
 | 22  | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/22_Patient_Support_Analysis_(Part%201)_Solution.sql) | 🔓 Unlocked | UnitedHealth | PostgreSQL 14 |
 | 23  | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/23_Most_Expensive_Purchase_Solution.sql) | 🔐 locked | Amazon | PostgreSQL 14 | 
+| 24  | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/24_ApplePay_Volume_Solution.sql) | 🔐 locked | Visa | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
