@@ -52,6 +52,7 @@ Each challenge is cataloged with:
 | 23  | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/23_Most_Expensive_Purchase_Solution.sql) | 🔐 locked | Amazon | PostgreSQL 14 | 
 | 24  | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/24_ApplePay_Volume_Solution.sql) | 🔐 locked | Visa | PostgreSQL 14 | 
 | 25  | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/25_Subject_Matter_Experts_Solution.sql) | 🔐 locked | Accenture | PostgreSQL 14 | 
+| 26  | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/26_LinkedIn_Power_Creators_(Part%201)_Solution.sql) | 🔐 locked | LinkedIn | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
