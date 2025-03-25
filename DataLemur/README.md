@@ -55,7 +55,8 @@ Each challenge is cataloged with:
 | 26  | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/26_LinkedIn_Power_Creators_(Part%201)_Solution.sql) | 🔐 locked | LinkedIn | PostgreSQL 14 | 
 | 27  | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/27_Highest_Number_of_Products_Solution.sql) | 🔐 locked | eBay | PostgreSQL 14 | 
 | 28  | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/28_Spare_Server_Capacity_Solution.sql) | 🔐 locked | Microsoft | PostgreSQL 14 | 
-| 29  | [Top Rated Businesses]https://datalemur.com/questions/sql-top-businesses) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/29_Top_Rated_Businesses_Solution.sql) | 🔐 locked | Yelp | PostgreSQL 14 | 
+| 29  | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/29_Top_Rated_Businesses_Solution.sql) | 🔐 locked | Yelp | PostgreSQL 14 | 
+| 30  | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/30_Ad_Campaign_ROAS_Solution.sql) | 🔐 locked | Google | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
