@@ -58,6 +58,7 @@ Each challenge is cataloged with:
 | 29  | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/29_Top_Rated_Businesses_Solution.sql) | 🔐 locked | Yelp | PostgreSQL 14 | 
 | 30  | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/30_Ad_Campaign_ROAS_Solution.sql) | 🔐 locked | Google | PostgreSQL 14 | 
 | 31  | [Product Line Revenue](https://datalemur.com/questions/revenue-by-product-line) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/30_Ad_Campaign_ROAS_Solution.sql) | 🔐 locked | NVIDIA | PostgreSQL 14 | 
+| 32  | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/32_Trade_In_Payouts_Solution.sql) | 🔐 locked | Apple | PostgreSQL 14 | 
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
