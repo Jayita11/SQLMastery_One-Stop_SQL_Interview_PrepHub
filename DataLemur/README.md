@@ -61,7 +61,7 @@ Each challenge is cataloged with:
 | 32  | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/32_Trade_In_Payouts_Solution.sql) | 🔐 locked | Apple | PostgreSQL 14 | 
 | 33  | [Webinar Popularity](https://datalemur.com/questions/snowflake-webinar-popularity) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/33_Webinar_Popularity_Solution.sql) | 🔐 locked | Snowflake | PostgreSQL 14 | 
 | 34  | [Who Made Quota?](https://datalemur.com/questions/oracle-sales-quota) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/34_Who_Made_Quota%3F_Solution.sql) | 🔐 locked | Oracle | PostgreSQL 14 | 
-| ... | *More challenges coming soon!* | ✅ |
+
 
 
 ### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
