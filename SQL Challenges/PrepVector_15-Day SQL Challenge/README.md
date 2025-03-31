@@ -48,7 +48,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | 11  | Third Unique Song Play Date | Coming Soon | ✅ Hard | In Progress |
 | 12  | User Consecutive Day Streak Analysis | Coming Soon | ✅ Hard | In Progress |
 | 13  | Click-Through Rate by Age | Coming Soon | ✅ Hard | In Progress |
-| 14  | Monthly Revenue Growth Analysis | Coming Soon | ⏳ | In Progress |
+| 14  | Monthly Revenue Growth Analysis | Coming Soon | ✅ Hard | In Progress |
 | 15  | Duplicate Transaction | Coming Soon | ⏳ | In Progress |
 
 > 💡 *You can update the challenge titles and add links to each question as PrepVector releases them.*
