@@ -28,7 +28,6 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 
 - [Day-wise Solutions](#-day-wise-solutions)
 - [Solution Table](#-Solution-Table)
-- [License](#-license)
 
 
 
