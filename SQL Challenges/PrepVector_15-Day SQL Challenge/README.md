@@ -24,6 +24,18 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 
 
 
+
+## 📜 Solution Table
+
+Each challenge in this repository is organized with the following details:
+
+- **Day**: The corresponding day of the challenge  
+- **Challenge Title**: The title or description of the problem  
+- **Script**: The original problem script or input schema  
+- **Solution**: The SQL solution provided for the problem  
+- **Difficulty Level**: Classified as *Easy*, *Medium*, or *Hard* based on complexity  
+- **Database Used**: The database system used to solve the challenge (e.g., SQLite)
+- 
 ## 📂 Table of Contents
 
 - [Day-wise Solutions](#-day-wise-solutions)
