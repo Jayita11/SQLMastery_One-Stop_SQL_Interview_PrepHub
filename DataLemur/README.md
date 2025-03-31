@@ -9,16 +9,27 @@
 ## 📌 Overview
 This repository contains solutions to SQL challenges from [DataLemur](https://datalemur.com/). These challenges range across **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **PostgreSQL** and structured for clarity, efficiency, and readability.  
 
-## 📜 Solution Table
+## 📜 Solution Table 
+Each challenge is cataloged with:  
 
-Each challenge in this repository is organized with the following details:
+- **ID**: Challenge number  
+- **Challenge**: Link to the DataLemur problem  
+- **Solution**: Link to the SQL script in this repository  
+- **Locked/Unlocked**: Indicates if the question requires a **paid subscription** or is **free**  
+- **Company**: Real-world company where this question appeared
+- **Database Used**: Name of the database used 
 
-- **Day**: The corresponding day of the challenge  
-- **Challenge Title**: The title or description of the problem  
-- **Script**: The original problem script or input schema  
-- **Solution**: The SQL solution provided for the problem  
-- **Difficulty Level**: Classified as *Easy*, *Medium*, or *Hard* based on complexity  
-- **Database Used**: The database system used to solve the challenge (e.g., SQLite)
+
+
+## 📜 Solution Table 
+Each challenge is cataloged with:  
+
+- **Day**: Day number
+- **Challenge Title**: Title of the problem 
+- **Script**: problem script 
+- **Solution**: Indicates if the question requires a **paid subscription** or is **free**  
+- **Difficulty Level**: Real-world company where this question appeared
+- **Database Used**: Name of the database used
 
 ## 📂 Table Of Contents
 
