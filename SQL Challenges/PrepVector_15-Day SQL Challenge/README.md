@@ -11,9 +11,6 @@
 This repository contains my solutions to the [15-Day SQL Challenge](https://prepvector.com/sql-challenge) hosted by **PrepVector**.  
 The challenge started on **March 24, 2025**, and features **15 daily SQL questions** to test your querying, data analysis, and problem-solving skills using **SQLite**.  
 
-Each problem can be attempted up to **3 times**, and each correct submission earns **10 points**. This repo is meant to document my SQL journey and learning throughout the challenge.
-
-
 
 ## 🧠 Challenge Details
 
@@ -30,8 +27,7 @@ Each problem can be attempted up to **3 times**, and each correct submission ear
 ## 📂 Table of Contents
 
 - [Day-wise Solutions](#-day-wise-solutions)
-- [Leaderboard Stats](#-leaderboard-stats)
-- [Tools Used](#-tools-used)
+- [Solution Table](#-Solution-Table)
 - [License](#-license)
 
 
