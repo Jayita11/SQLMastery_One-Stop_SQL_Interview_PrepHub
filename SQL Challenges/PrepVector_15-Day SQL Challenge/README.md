@@ -34,7 +34,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 ## 📅 Day-wise Solutions
 
 | Day | Challenge Title | Script | Solution | Difficulty | Database Used |
-|-----|------------------|----------|-------|--------|
+|-----|------------------|----------|-------|-------------|------------------|
 | 1   | Challenge 1 | [Day01_Solution.sql](./Day01_Solution.sql) | ✅ 10/10 | Completed |
 | 2   | Challenge 2 | [Day02_Solution.sql](./Day02_Solution.sql) | ✅ 10/10 | Completed |
 | 3   | Challenge 3 | [Day03_Solution.sql](./Day03_Solution.sql) | ✅ 10/10 | Completed |
