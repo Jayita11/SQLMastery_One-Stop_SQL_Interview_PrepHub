@@ -47,7 +47,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | 10  | Liker’s Liker | Coming Soon | ⏳ | In Progress |
 | 11  | Third Unique Song Play Date | Coming Soon | ⏳ | In Progress |
 | 12  | User Consecutive Day Streak Analysis | Coming Soon | ⏳ | In Progress |
-| 13  | Challenge 13 | Coming Soon | ⏳ | In Progress |
+| 13  | Click-Through Rate by Age | Coming Soon | ⏳ | In Progress |
 | 14  | Challenge 14 | Coming Soon | ⏳ | In Progress |
 | 15  | Challenge 15 | Coming Soon | ⏳ | In Progress |
 
