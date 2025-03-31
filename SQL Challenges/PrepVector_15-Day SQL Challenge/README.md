@@ -35,7 +35,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 
 | Day | Challenge Title | Script | Solution | Difficulty | Database Used |
 |-----|------------------|----------|-------|-------------|------------------|
-| 1   | Inactive Users Percentage | [Day01_Solution.sql](./Day01_Solution.sql) | ✅ Easy | Completed |
+| 1   | Inactive Users Percentage | [Day01_Solution.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Easy/01_Inactive_Users_Percentage_Table_Creation_Script.sql) | | ✅ Easy | Completed |
 | 2   | Home Address Transaction Analysis | [Day02_Solution.sql](./Day02_Solution.sql) | ✅ Easy | Completed |
 | 3   | Single vs Repeat Job Posters | [Day03_Solution.sql](./Day03_Solution.sql) | ✅ Medium | Completed |
 | 4   | Most Recent Transaction | [Day04_Solution.sql](./Day04_Solution.sql) | ✅ Medium | Completed |
