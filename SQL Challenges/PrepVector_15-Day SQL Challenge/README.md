@@ -1,4 +1,109 @@
 <p align="left">
+  <img src="https://prepvector.com/_next/static/media/logo.6e8cb71a.svg" alt="PrepVector Logo" width="100" align="left">
+  <h1> PrepVector 15-Day SQL Challenge – Solutions</h1>
+</p>
+
+<br><br>
+
+## 📌 Overview
+
+This repository contains my solutions to the [15-Day SQL Challenge](https://prepvector.com/sql-challenge) hosted by **PrepVector**.  
+The challenge started on **March 24, 2025**, and features **15 daily SQL questions** to test your querying, data analysis, and problem-solving skills using **SQLite**.  
+
+Each problem can be attempted up to **3 times**, and each correct submission earns **10 points**. This repo is meant to document my SQL journey and learning throughout the challenge.
+
+---
+
+## 🧠 Challenge Details
+
+- 🗓️ **Start Date**: March 24, 2025  
+- 🧮 **Total Questions**: 15  
+- 🏆 **Scoring**: 10 points per question (Max: 150)  
+- 🔁 **Attempts**: 3 per question  
+- 🛠️ **SQL Flavor**: SQLite  
+- 🔒 **Rule**: DO NOT modify input tables  
+- 📚 **Reference**: [SQLite Syntax Guide](https://www.sqlite.org/lang.html)
+
+---
+
+## 📂 Table of Contents
+
+- [Day-wise Solutions](#-day-wise-solutions)
+- [Leaderboard Stats](#-leaderboard-stats)
+- [Tools Used](#-tools-used)
+- [License](#-license)
+
+---
+
+## 📅 Day-wise Solutions
+
+| Day | Challenge Title | Solution | Score | Status |
+|-----|------------------|----------|-------|--------|
+| 1   | Challenge 1 | [Day01_Solution.sql](./Day01_Solution.sql) | ✅ 10/10 | Completed |
+| 2   | Challenge 2 | [Day02_Solution.sql](./Day02_Solution.sql) | ✅ 10/10 | Completed |
+| 3   | Challenge 3 | [Day03_Solution.sql](./Day03_Solution.sql) | ✅ 10/10 | Completed |
+| 4   | Challenge 4 | [Day04_Solution.sql](./Day04_Solution.sql) | ✅ 10/10 | Completed |
+| 5   | Challenge 5 | [Day05_Solution.sql](./Day05_Solution.sql) | ✅ 10/10 | Completed |
+| 6   | Challenge 6 | [Day06_Solution.sql](./Day06_Solution.sql) | ✅ 10/10 | Completed |
+| 7   | Challenge 7 | [Day07_Solution.sql](./Day07_Solution.sql) | ✅ 10/10 | Completed |
+| 8   | Challenge 8 | [Day08_Solution.sql](./Day08_Solution.sql) | ✅ 8/10  | Completed |
+| 9   | Challenge 9 | Coming Soon | ⏳ | In Progress |
+| 10  | Challenge 10 | Coming Soon | ⏳ | In Progress |
+| 11  | Challenge 11 | Coming Soon | ⏳ | In Progress |
+| 12  | Challenge 12 | Coming Soon | ⏳ | In Progress |
+| 13  | Challenge 13 | Coming Soon | ⏳ | In Progress |
+| 14  | Challenge 14 | Coming Soon | ⏳ | In Progress |
+| 15  | Challenge 15 | Coming Soon | ⏳ | In Progress |
+
+> 💡 *You can update the challenge titles and add links to each question as PrepVector releases them.*
+
+---
+
+## 📊 Leaderboard Stats
+
+| Metric             | Value         |
+|--------------------|---------------|
+| 👤 Username         | Jayita        |
+| ✅ Questions Solved | 8 / 15        |
+| 🏅 Current Score    | 78 / 150      |
+| 📈 Current Rank     | #
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="left">
   <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" align="left">
   <h1> DataLemur SQL Challenges – Solutions</h1>
 </p>
