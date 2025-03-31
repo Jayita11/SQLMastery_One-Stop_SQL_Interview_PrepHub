@@ -23,7 +23,7 @@ Each challenge is cataloged with:
 - [Easy](#easy)
 - [Medium](#medium)
 - [Hard](#hard)
-### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(20/35)** 
+### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(34/34)** 
 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
@@ -38,6 +38,8 @@ Each challenge is cataloged with:
 | 09  | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/09_Cities_With_Completed_Trades_Solution.sql) | 🔓 Unlocked | Robinhood | PostgreSQL 14 | 
 | 10  | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/10_Average_Review_Ratings_Solution.sql) | 🔓 Unlocked | Amazon | PostgreSQL 14 | 
 | 11  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/11_Well_Paid_Employees_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
+| 12  | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/12_Final_Account_Balance_Solution.sql) | 🔐 locked | PayPal | PostgreSQL 14 | 
+| 13  | [QuickBooks vs TurboTax](https://datalemur.com/questions/quickbooks-vs-turbotax) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/13_QuickBooks_vs_TurboTax_Solution.sql) | 🔐 locked | Intuit | PostgreSQL 14 | 
 | 14  | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/14_App_Click-through_Rate_(CTR)_Solution.sql) | 🔓 Unlocked | Facebook/Meta | PostgreSQL 14 | 
 | 15  | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/15_Second_Day_Confirmation_Solution.sql) | 🔓 Unlocked | TikTok | PostgreSQL 14 | 
 | 16  | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/16_IBM_db2_Product_Analytics_Solution.sql) | 🔓 Unlocked | IBM | PostgreSQL 14 | 
@@ -47,13 +49,27 @@ Each challenge is cataloged with:
 | 20  | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/20_Pharmacy_Analytics_(Part%202)_Solution.sql) | 🔓 Unlocked | CVS Health| PostgreSQL 14 |
 | 21  | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/21_Pharmacy_Analytics_(Part%203)_Solution.sql) | 🔓 Unlocked | CVS Health| PostgreSQL 14 |
 | 22  | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/22_Patient_Support_Analysis_(Part%201)_Solution.sql) | 🔓 Unlocked | UnitedHealth | PostgreSQL 14 |
-| ... | *More challenges coming soon!* | ✅ |
+| 23  | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/23_Most_Expensive_Purchase_Solution.sql) | 🔐 locked | Amazon | PostgreSQL 14 | 
+| 24  | [ApplePay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/24_ApplePay_Volume_Solution.sql) | 🔐 locked | Visa | PostgreSQL 14 | 
+| 25  | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/25_Subject_Matter_Experts_Solution.sql) | 🔐 locked | Accenture | PostgreSQL 14 | 
+| 26  | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/26_LinkedIn_Power_Creators_(Part%201)_Solution.sql) | 🔐 locked | LinkedIn | PostgreSQL 14 | 
+| 27  | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/27_Highest_Number_of_Products_Solution.sql) | 🔐 locked | eBay | PostgreSQL 14 | 
+| 28  | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/28_Spare_Server_Capacity_Solution.sql) | 🔐 locked | Microsoft | PostgreSQL 14 | 
+| 29  | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/29_Top_Rated_Businesses_Solution.sql) | 🔐 locked | Yelp | PostgreSQL 14 | 
+| 30  | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/30_Ad_Campaign_ROAS_Solution.sql) | 🔐 locked | Google | PostgreSQL 14 | 
+| 31  | [Product Line Revenue](https://datalemur.com/questions/revenue-by-product-line) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/30_Ad_Campaign_ROAS_Solution.sql) | 🔐 locked | NVIDIA | PostgreSQL 14 | 
+| 32  | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/32_Trade_In_Payouts_Solution.sql) | 🔐 locked | Apple | PostgreSQL 14 | 
+| 33  | [Webinar Popularity](https://datalemur.com/questions/snowflake-webinar-popularity) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/33_Webinar_Popularity_Solution.sql) | 🔐 locked | Snowflake | PostgreSQL 14 | 
+| 34  | [Who Made Quota?](https://datalemur.com/questions/oracle-sales-quota) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/34_Who_Made_Quota%3F_Solution.sql) | 🔐 locked | Oracle | PostgreSQL 14 | 
 
-### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(13/39)** 
+
+
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(18/39)** 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/1_User's_Third_Transaction_Solution.sql) | 🔓 Unlocked | Uber | PostgreSQL 14 | 
 | 02  | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/2_Second_Highest_Salary_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
+| 03  | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/3_Sending_vs._Opening_Snaps_Solution.sql) | 🔐 locked | Snapchat | PostgreSQL 14 | 
 | 04  | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/4_Tweets'_Rolling_Averages_Solution.sql) | 🔓 Unlocked | Twitter | PostgreSQL 14 | 
 | 05  | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/5_Highest-Grossing_Items_Solution.sql) | 🔓 Unlocked | Amazon | PostgreSQL 14 | 
 | 06  | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/6_Top_Three_Salaries_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
@@ -65,7 +81,10 @@ Each challenge is cataloged with:
 | 22  | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/22_Compressed_Mode_Solution.sql) | 🔓 Unlocked | Alibaba | PostgreSQL 14 | 
 | 23  | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/23_Card_Launch_Success_Solution.sql) | 🔓 Unlocked | JP Morgan | PostgreSQL 14 |
 | 24  | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/24_International_Call_Percentage_Solution.sql) | 🔓 Unlocked | Verizon | PostgreSQL 14 |
-| 25  | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/25_Patient_Support_Analysis_(Part%202)_Solution.sql) | 🔓 Unlocked | JP UnitedHealth | PostgreSQL 14 |
+| 25  | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/25_Patient_Support_Analysis_(Part%202)_Solution.sql) | 🔓 Unlocked | UnitedHealth | PostgreSQL 14 |
+| 36  | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/36_Invalid_Search_Results_Solution.sql) |  🔐 locked | Google | PostgreSQL 14 |
+| 37  | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/37_Repeat_Purchases_on_Multiple_Days_Solution.sql) |  🔐 locked | Stitch Fix | PostgreSQL 14 |
+| 38  | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/38_Compensation_Outliers_Solution.sql) |  🔐 locked | Accenture | PostgreSQL 14 |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
