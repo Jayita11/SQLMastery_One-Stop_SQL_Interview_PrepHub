@@ -44,7 +44,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | 7   | Multi-Day Customer Count | [Day07_Solution.sql](./Day07_Solution.sql) | ✅ 10/10 | Completed |
 | 8   | Sequential Project Pairs | [Day08_Solution.sql](./Day08_Solution.sql) | ✅ 8/10  | Completed |
 | 9   | Product Sales by Month | Coming Soon | ⏳ | In Progress |
-| 10  | Challenge 10 | Coming Soon | ⏳ | In Progress |
+| 10  | Liker’s Liker | Coming Soon | ⏳ | In Progress |
 | 11  | Challenge 11 | Coming Soon | ⏳ | In Progress |
 | 12  | Challenge 12 | Coming Soon | ⏳ | In Progress |
 | 13  | Challenge 13 | Coming Soon | ⏳ | In Progress |
