@@ -12,7 +12,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 
 Each problem can be attempted up to **3 times**, and each correct submission earns **10 points**. This repo is meant to document my SQL journey and learning throughout the challenge.
 
----
+
 
 ## 🧠 Challenge Details
 
@@ -24,7 +24,7 @@ Each problem can be attempted up to **3 times**, and each correct submission ear
 - 🔒 **Rule**: DO NOT modify input tables  
 - 📚 **Reference**: [SQLite Syntax Guide](https://www.sqlite.org/lang.html)
 
----
+
 
 ## 📂 Table of Contents
 
@@ -33,7 +33,7 @@ Each problem can be attempted up to **3 times**, and each correct submission ear
 - [Tools Used](#-tools-used)
 - [License](#-license)
 
----
+
 
 ## 📅 Day-wise Solutions
 
@@ -57,7 +57,7 @@ Each problem can be attempted up to **3 times**, and each correct submission ear
 
 > 💡 *You can update the challenge titles and add links to each question as PrepVector releases them.*
 
----
+
 
 ## 📊 Leaderboard Stats
 
