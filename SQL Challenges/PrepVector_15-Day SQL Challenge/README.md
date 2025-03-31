@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://prepvector.com/_next/static/media/logo.6e8cb71a.svg" alt="PrepVector Logo" width="100" align="left">
+  <img src="https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/c80d2ff9bd9e754dcf3e75a22b16714a.jpeg" alt="PrepVector Logo" width="100" align="left">
   <h1> PrepVector 15-Day SQL Challenge – Solutions</h1>
 </p>
 
