@@ -39,7 +39,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | 2   | Home Address Transaction Analysis | [Day02_Solution.sql](./Day02_Solution.sql) | ✅ 10/10 | Completed |
 | 3   | Single vs Repeat Job Posters | [Day03_Solution.sql](./Day03_Solution.sql) | ✅ 10/10 | Completed |
 | 4   | Most Recent Transaction | [Day04_Solution.sql](./Day04_Solution.sql) | ✅ 10/10 | Completed |
-| 5   | Challenge 5 | [Day05_Solution.sql](./Day05_Solution.sql) | ✅ 10/10 | Completed |
+| 5   | Post Completion Rate Analysis | [Day05_Solution.sql](./Day05_Solution.sql) | ✅ 10/10 | Completed |
 | 6   | Challenge 6 | [Day06_Solution.sql](./Day06_Solution.sql) | ✅ 10/10 | Completed |
 | 7   | Challenge 7 | [Day07_Solution.sql](./Day07_Solution.sql) | ✅ 10/10 | Completed |
 | 8   | Challenge 8 | [Day08_Solution.sql](./Day08_Solution.sql) | ✅ 8/10  | Completed |
