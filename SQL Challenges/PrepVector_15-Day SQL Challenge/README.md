@@ -41,7 +41,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | 4   | Most Recent Transaction | [Day04_Solution.sql](./Day04_Solution.sql) | ✅ Medium | Completed |
 | 5   | Post Completion Rate Analysis | [Day05_Solution.sql](./Day05_Solution.sql) | ✅ Medium | Completed |
 | 6   | Above Average Product Prices | [Day06_Solution.sql](./Day06_Solution.sql) | ✅ Medium | Completed |
-| 7   | Multi-Day Customer Count | [Day07_Solution.sql](./Day07_Solution.sql) | ✅ 10/10 | Completed |
+| 7   | Multi-Day Customer Count | [Day07_Solution.sql](./Day07_Solution.sql) | ✅ Medium | Completed |
 | 8   | Sequential Project Pairs | [Day08_Solution.sql](./Day08_Solution.sql) | ✅ 8/10  | Completed |
 | 9   | Product Sales by Month | Coming Soon | ⏳ | In Progress |
 | 10  | Liker’s Liker | Coming Soon | ⏳ | In Progress |
