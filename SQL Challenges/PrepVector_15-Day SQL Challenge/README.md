@@ -36,7 +36,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | Day | Challenge Title | Script | Solution | Difficulty | Database Used |
 |-----|------------------|----------|-------|-------------|------------------|
 | 1   | Inactive Users Percentage | [Day01_Solution.sql](./Day01_Solution.sql) | ✅ Easy | Completed |
-| 2   | Home Address Transaction Analysis | [Day02_Solution.sql](./Day02_Solution.sql) | ✅ 10/10 | Completed |
+| 2   | Home Address Transaction Analysis | [Day02_Solution.sql](./Day02_Solution.sql) | ✅ Easy | Completed |
 | 3   | Single vs Repeat Job Posters | [Day03_Solution.sql](./Day03_Solution.sql) | ✅ 10/10 | Completed |
 | 4   | Most Recent Transaction | [Day04_Solution.sql](./Day04_Solution.sql) | ✅ 10/10 | Completed |
 | 5   | Post Completion Rate Analysis | [Day05_Solution.sql](./Day05_Solution.sql) | ✅ 10/10 | Completed |
