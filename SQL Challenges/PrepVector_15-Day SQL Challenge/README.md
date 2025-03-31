@@ -49,7 +49,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | 12  | User Consecutive Day Streak Analysis | Coming Soon | ✅ Hard | In Progress |
 | 13  | Click-Through Rate by Age | Coming Soon | ✅ Hard | In Progress |
 | 14  | Monthly Revenue Growth Analysis | Coming Soon | ✅ Hard | In Progress |
-| 15  | Duplicate Transaction | Coming Soon | ⏳ | In Progress |
+| 15  | Duplicate Transaction | Coming Soon | ✅ Hard | In Progress |
 
 > 💡 *You can update the challenge titles and add links to each question as PrepVector releases them.*
 
