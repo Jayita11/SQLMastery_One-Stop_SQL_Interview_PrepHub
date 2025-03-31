@@ -43,8 +43,8 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 | 6   | Above Average Product Prices | [Day06_Solution.sql](./Day06_Solution.sql) | ✅ Medium | Completed |
 | 7   | Multi-Day Customer Count | [Day07_Solution.sql](./Day07_Solution.sql) | ✅ Medium | Completed |
 | 8   | Sequential Project Pairs | [Day08_Solution.sql](./Day08_Solution.sql) | ✅ Medium  | Completed |
-| 9   | Product Sales by Month | ✅ Medium | ⏳ | In Progress |
-| 10  | Liker’s Liker | Coming Soon | ⏳ | In Progress |
+| 9   | Product Sales by Month | ✅ Medium | ✅ Medium | In Progress |
+| 10  | Liker’s Liker | Coming Soon | ✅ Hard | In Progress |
 | 11  | Third Unique Song Play Date | Coming Soon | ⏳ | In Progress |
 | 12  | User Consecutive Day Streak Analysis | Coming Soon | ⏳ | In Progress |
 | 13  | Click-Through Rate by Age | Coming Soon | ⏳ | In Progress |
