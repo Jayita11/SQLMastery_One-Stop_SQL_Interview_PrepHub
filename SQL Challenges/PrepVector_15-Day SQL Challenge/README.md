@@ -54,7 +54,7 @@ Each challenge in this repository is organized with the following details:
 | 6   | Above Average Product Prices | [Day06_Solution.sql](./Day06_Solution.sql) | ✅ Medium | Completed |
 | 7   | Multi-Day Customer Count | [Day07_Solution.sql](./Day07_Solution.sql) | ✅ Medium | Completed |
 | 8   | Sequential Project Pairs | [Day08_Solution.sql](./Day08_Solution.sql) | ✅ Medium  | Completed |
-| 9   | Product Sales by Month | [Day09_Script.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Medium/09_Product_Sales_by_Month_Script.sql) | [Day09_Solution.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Medium/01_Single_vs_Repeat_Job_Posters_Solution.sql) | ✅ Medium | ✅ Medium | In Progress |
+| 9   | Product Sales by Month | [Day09_Script.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Medium/09_Product_Sales_by_Month_Script.sql) | [Day09_Solution.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Medium/09_Product_Sales_by_Month_Solution.sql) | ✅ Medium | SQLite 
 | 10  | Liker’s Liker | Coming Soon | ✅ Hard | In Progress |
 | 11  | Third Unique Song Play Date | Coming Soon | ✅ Hard | In Progress |
 | 12  | User Consecutive Day Streak Analysis | Coming Soon | ✅ Hard | In Progress |
