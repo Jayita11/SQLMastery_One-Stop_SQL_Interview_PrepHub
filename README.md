@@ -8,7 +8,7 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
  
 2. **[Solutions by Platform](#solutions-by-platform)**     
 
-3. **[Company-Specific Questions](#company-specific-questions)**    
+3. **[Company-Specific Questions](#company-specific-questions)**     
  
 4. **[SQL Case Studies](#sql-case-studies)**  
  
