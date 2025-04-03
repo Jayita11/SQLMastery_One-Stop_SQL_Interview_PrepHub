@@ -31,7 +31,7 @@ Each challenge in this repository is organized with the following details:
 
 - **Day**: The corresponding day of the challenge  
 - **Challenge Title**: The title or description of the problem  
-- **Table creation Script**: The table creation and data insert script
+- **Table Creation Script**: The table creation and data insert script
 - **Solution**: The SQL solution provided for the problem  
 - **Difficulty Level**: Classified as *Easy*, *Medium*, or *Hard* based on complexity  
 - **Database Used**: The database system used to solve the challenge (e.g., SQLite)
@@ -44,9 +44,9 @@ Each challenge in this repository is organized with the following details:
 
 ## 📅 Day-wise Solutions
 
-| Day | Challenge Title | Table creation Script | Solution | Difficulty | Database Used |
+| Day | Challenge Title | Table Creation Script | Solution | Difficulty | Database Used |
 |-----|------------------|----------|-------|-------------|------------------|
-| 1   | Inactive Users Percentage | [Day01_Script.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Easy/01_Inactive_Users_Percentage_Table_Creation_Script.sql) | [Day01_Solution.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Easy/01_Inactive_Users_Percentage_Solution.sql) | ✅ Easy | SQLite |
+| 1   | Inactive Users Percentage | [Day01_Table Creation Script.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Easy/01_Inactive_Users_Percentage_Table_Creation_Script.sql) | [Day01_Solution.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Easy/01_Inactive_Users_Percentage_Solution.sql) | ✅ Easy | SQLite |
 | 2   | Home Address Transaction Analysis | [Day02_Script.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Easy/02_Home_Address_Transaction_Analysis_Script.sql) | [Day02_Solution.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Easy/02_Home_Address_Transaction_Analysis_Solution.sql) | ✅ Easy | SQLite |
 | 3   | Single vs Repeat Job Posters | [Day03_Script.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Medium/01_Single_vs_Repeat_Job_Posters_Table_Creation_Script.sql) | [Day03_Solution.sql](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/SQL%20Challenges/PrepVector_15-Day%20SQL%20Challenge/Medium/01_Single_vs_Repeat_Job_Posters_Solution.sql) | ✅ Medium | SQLite |
 | 4   | Most Recent Transaction | [Day04_Solution.sql](./Day04_Solution.sql) | ✅ Medium | Completed |
