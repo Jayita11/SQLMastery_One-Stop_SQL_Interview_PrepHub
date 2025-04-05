@@ -40,7 +40,7 @@ A curated collection of SQL problems and solutions from 7 well-known platforms, 
 
 4. **[StrataScratch](./stratascratch/README.md)**    
 
-5. **[Interview Query](./interview_query/README.md)**  
+5. **[Interview Query](./interview_query/README.md)**   
 
 6. **[NamasteSQL by Ankit Bansal](./namaste_sql/README.md)**   
 
