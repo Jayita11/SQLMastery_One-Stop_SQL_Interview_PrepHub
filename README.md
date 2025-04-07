@@ -1,7 +1,7 @@
 # SQLMastery: One-Stop SQL Interview Prep Hub       
     
 Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL interviews! Whether you’re a beginner or an advanced SQL enthusiast, this repo is packed with resources, real-world case studies, company-specific questions, and fun SQL games to sharpen your skills.                         
-   
+    
 ## Table of Contents         
  
 1. **[Introduction](#Introduction)**                  
