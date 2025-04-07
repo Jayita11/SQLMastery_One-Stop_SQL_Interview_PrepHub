@@ -26,7 +26,7 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
    
  
-## Introduction   
+## Introduction    
 I created this repository to help myself and others prepare for SQL interviews. It compiles challenges, real-world case studies, and theoretical interview questions from various platforms and company-specific resources. I will continuously update **SQLMastery** with new content, so feel free to star and fork the repo to stay up-to-date.  
  
 ## Solutions by Platforms  
