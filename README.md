@@ -22,7 +22,7 @@ Welcome to **SQLMastery**, my ultimate repository for preparing and acing SQL in
 
 10. **[Contribution](#contribution)**        
   
-11. **[License](#license)**             
+11. **[License](#license)**              
 
    
  
