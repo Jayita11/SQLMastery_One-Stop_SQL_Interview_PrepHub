@@ -42,7 +42,7 @@ A curated collection of SQL problems and solutions from 7 well-known platforms, 
 
 5. **[Interview Query](./interview_query/README.md)**   
 
-6. **[NamasteSQL by Ankit Bansal](./namaste_sql/README.md)**   
+6. **[NamasteSQL by Ankit Bansal](./namaste_sql/README.md)**    
 
 7. **[Codebasics](./codebasics/README.md)**  
 
