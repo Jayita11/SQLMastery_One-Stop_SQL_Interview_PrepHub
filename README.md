@@ -50,7 +50,7 @@ A curated collection of SQL problems and solutions from 7 well-known platforms, 
 SQL interview questions tailored to specific companies have been compiled:
 
 - **Google**: [Google SQL Challenges](./company_questions/google.md)  
-- **Amazon**: [Amazon SQL Challenges](./company_questions/amazon.md)  
+- **Amazon**: [Amazon SQL Challenges](./company_questions/amazon.md)   
 - **Meta**: [Meta SQL Challenges](./company_questions/meta.md)
   
 ## SQL Case Studies  
