@@ -20,7 +20,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 - 🔁 **Attempts**: 3 per question  
 - 🛠️ **SQL Flavor**: SQLite  
 - 🔒 **Rule**: DO NOT modify input tables  
-- 📚 **Reference**: [SQLite Syntax Guide](https://www.sqlite.org/lang.html)
+- 📚 **Reference**: [SQLite Syntax Guide](https://www.sqlite.org/lang.html) 
 
 
 
