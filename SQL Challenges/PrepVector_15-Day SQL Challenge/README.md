@@ -12,7 +12,7 @@ This repository contains my solutions to the [15-Day SQL Challenge](https://prep
 The challenge started on **March 24, 2025**, and features **15 daily SQL questions** to test your querying, data analysis, and problem-solving skills using **SQLite**.  
 
 
-## 🧠 Challenge Details
+## 🧠 Challenge Details 
 
 - 🗓️ **Start Date**: March 24, 2025  
 - 🧮 **Total Questions**: 15  
