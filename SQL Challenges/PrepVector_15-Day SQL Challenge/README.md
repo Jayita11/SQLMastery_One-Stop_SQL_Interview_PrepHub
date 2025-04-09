@@ -36,7 +36,7 @@ Each challenge in this repository is organized with the following details:
 - **Difficulty Level**: Classified as *Easy*, *Medium*, or *Hard* based on complexity   
 - **Database Used**: The database system used to solve the challenge (e.g., SQLite)
   
-## 📂 Table of Contents 
+## 📂 Table of Contents  
 
 - [Day-wise Solutions](#-day-wise-solutions)
 
