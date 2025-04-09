@@ -15,7 +15,7 @@ The challenge started on **March 24, 2025**, and features **15 daily SQL questio
 ## 🧠 Challenge Details 
 
 - 🗓️ **Start Date**: March 24, 2025  
-- 🧮 **Total Questions**: 15  
+- 🧮 **Total Questions**: 15   
 - 🏆 **Scoring**: 10 points per question (Max: 150)  
 - 🔁 **Attempts**: 3 per question  
 - 🛠️ **SQL Flavor**: SQLite  
