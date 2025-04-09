@@ -33,7 +33,7 @@ Each challenge in this repository is organized with the following details:
 - **Challenge Title**: The title or description of the problem  
 - **Table Creation Script**: The table creation and data insert script  
 - **Solution**: The SQL solution provided for the problem  
-- **Difficulty Level**: Classified as *Easy*, *Medium*, or *Hard* based on complexity  
+- **Difficulty Level**: Classified as *Easy*, *Medium*, or *Hard* based on complexity   
 - **Database Used**: The database system used to solve the challenge (e.g., SQLite)
   
 ## 📂 Table of Contents
