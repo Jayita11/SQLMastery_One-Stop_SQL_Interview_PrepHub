@@ -19,18 +19,6 @@ Each challenge is cataloged with:
 - **Company**: Real-world company where this question appeared
 - **Database Used**: Name of the database used 
 
-
-
-## 📜 Solution Table 
-Each challenge is cataloged with:  
-
-- **Day**: Day number
-- **Challenge Title**: Title of the problem 
-- **Script**: problem script 
-- **Solution**: Indicates if the question requires a **paid subscription** or is **free**  
-- **Difficulty Level**: Real-world company where this question appeared
-- **Database Used**: Name of the database used
-
 ## 📂 Table Of Contents
 
 - [Easy](#easy)
