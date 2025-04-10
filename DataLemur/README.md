@@ -75,7 +75,10 @@ Each challenge is cataloged with:
 | 05  | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/5_Highest-Grossing_Items_Solution.sql) | 🔓 Unlocked | Amazon | PostgreSQL 14 | 
 | 06  | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/6_Top_Three_Salaries_Solution.sql) | 🔓 Unlocked | FAANG | PostgreSQL 14 | 
 | 07  | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/7_Signup_Activation_Rate_Solution.sql) | 🔓 Unlocked | TikTok | PostgreSQL 14 | 
-| 08  | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/08_Fill_Missing_Client_Data_Solution.sql) | 🔐 locked | Accenture  | PostgreSQL 14 | 
+| 08  | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/08_Fill_Missing_Client_Data_Solution.sql) | 🔐 locked | Accenture  | PostgreSQL 14 |
+
+| 09  | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/09_Spotify_Streaming_History_Solution.sql) | 🔐 locked | Spotify  | PostgreSQL 14 | 
+
 | 13  | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/13_Supercloud_Customer_Solution.sql) | 🔓 Unlocked | Microsoft | PostgreSQL 14 | 
 
 | 14  | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/14_Odd_and_Even_Measurements_Solution.sql) | 🔓 Unlocked | Google | PostgreSQL 14 | 
