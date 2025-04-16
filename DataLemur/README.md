@@ -95,6 +95,7 @@ Each challenge is cataloged with:
 | 36  | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/36_Invalid_Search_Results_Solution.sql) |  🔐 locked | Google | PostgreSQL 14 |
 | 37  | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/37_Repeat_Purchases_on_Multiple_Days_Solution.sql) |  🔐 locked | Stitch Fix | PostgreSQL 14 |
 | 38  | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/38_Compensation_Outliers_Solution.sql) |  🔐 locked | Accenture | PostgreSQL 14 |
+| 39  | [FAANG Stock Monthly Change (Part 2)](https://datalemur.com/questions/sql-bloomberg-stock-monthly-change) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/39_FAANG_Stock_Monthly_Change_(Part%202)_Solution.sql) |  🔐 locked | Bloomberg | PostgreSQL 14 |
 | ... | *More challenges coming soon!* | ✅ |
 
 ### Difficulty: ![Hard](https://img.shields.io/badge/Difficulty-Hard-brightgreen) **(0/28)**  
