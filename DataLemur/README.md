@@ -65,7 +65,7 @@ Each challenge is cataloged with:
 
 
 
-### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(30/39)** 
+### Difficulty: ![Medium](https://img.shields.io/badge/Difficulty-Medium-brightgreen) **(31/39)** 
 | ID  | Challenge | Solution | Locked/Unlocked | Company | Database Used | 
 |----|---------------------------------|-----------|----------------|---------|---------|
 | 01  | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Medium/1_User's_Third_Transaction_Solution.sql) | 🔓 Unlocked | Uber | PostgreSQL 14 | 
