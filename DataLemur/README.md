@@ -7,7 +7,7 @@
 
 
 ## 📌 Overview 
-This repository contains solutions to SQL challenges from [DataLemur](https://datalemur.com/). These challenges range across **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **PostgreSQL** and structured for clarity, efficiency, and readability.  
+This repository contains solutions to SQL challenges from [DataLemur](https://datalemur.com/). These challenges range across **Easy, Medium, and Hard** difficulty levels and are designed to enhance SQL proficiency for technical interviews and data analysis tasks. Each solution is written in **PostgreSQL** and structured for clarity, efficiency, and readability.   
 
 ## 📜 Solution Table 
 Each challenge is cataloged with:  
