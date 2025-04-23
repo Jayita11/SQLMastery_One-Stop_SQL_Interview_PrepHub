@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="100" align="left">
-  <h1> DataLemur SQL Challenges – Solutions</h1>
+  <img src="https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/leetcode-3469463288.png" width="100" align="left">
+  <h1> Leetcode SQL Challenges – Solutions</h1>
 </p>
 
 <br><br>
