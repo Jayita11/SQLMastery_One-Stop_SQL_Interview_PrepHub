@@ -27,8 +27,8 @@ Each challenge is cataloged with:
 ### Difficulty: ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) **(34/34)** 
 
 | ID  | Challenge | Solution | Company | Database Used | Topic | Study Plan |
-|----|---------------------------------|-----------|----------------|---------|---------|---------|---------|
-| 01  | [1757_Recyclable_and_Low_Fat_Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/1757_Recyclable_and_Low_Fat_Products.sql) | 🔓 Unlocked | Companies | MySQL | 
+|----|---------------------------------|-----------|----------------|---------|---------|---------|
+| 01  | [1757_Recyclable_and_Low_Fat_Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/1757_Recyclable_and_Low_Fat_Products.sql) | Companies | MySQL | SELECT | SQL 50
 | 02  | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/02_Data_Science_Skills_Solution.sql) | 🔓 Unlocked | Linkedin | PostgreSQL 14 | 
 | 23  | [Most Expensive Purchase](https://datalemur.com/questions/most-expensive-purchase) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/DataLemur/Easy/23_Most_Expensive_Purchase_Solution.sql) | 🔐 locked | Amazon | PostgreSQL 14 | 
 
