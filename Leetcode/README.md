@@ -30,6 +30,11 @@ Each challenge is cataloged with:
 |----|---------------------------------|-----------|----------------|---------|---------|---------|
 | 01  | [1757_Recyclable_and_Low_Fat_Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/1757_Recyclable_and_Low_Fat_Products.sql) | Companies | MySQL | SELECT | SQL 50
 | 02  | [584_Find_Customer_Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/584_Find_Customer_Referee.sql) | Companies | MySQL | SELECT | SQL 50
+| 03  | [595_Big_Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/595_Big_Countries.sql) | Companies | MySQL | SELECT | SQL 50
+| 02  | [584_Find_Customer_Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/584_Find_Customer_Referee.sql) | Companies | MySQL | SELECT | SQL 50
+| 02  | [584_Find_Customer_Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/584_Find_Customer_Referee.sql) | Companies | MySQL | SELECT | SQL 50
+| 02  | [584_Find_Customer_Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/584_Find_Customer_Referee.sql) | Companies | MySQL | SELECT | SQL 50
+| 02  | [584_Find_Customer_Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/584_Find_Customer_Referee.sql) | Companies | MySQL | SELECT | SQL 50
 
 
 
