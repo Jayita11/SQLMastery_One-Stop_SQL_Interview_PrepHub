@@ -34,7 +34,7 @@ Each challenge is cataloged with:
 | 04  | [1148_Article_Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/1148_Article_Views%20I.sql) | Companies | MySQL | SELECT | SQL 50
 | 05  | [1683_Invalid_Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/1683_Invalid_Tweets.sql) | Companies | MySQL | SELECT | SQL 50
 | 06  | [1378_Replace_Employee_ID_With_The_Unique_Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/1378_Replace_Employee_ID_With_The_Unique_Identifier_Solution.sql) | Companies | MySQL | BASIC JOINS | SQL 50
-| 02  | [584_Find_Customer_Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/584_Find_Customer_Referee.sql) | Companies | MySQL | SELECT | SQL 50
+| 07  | [1068_Product_Sales_Analysis_I](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Jayita11/SQLMastery_One-Stop_SQL_Interview_PrepHub/blob/main/Leetcode/Easy/1068_Product_Sales_Analysis_I_Solution.sql) | Companies | MySQL | BASIC JOINS | SQL 50
 
 
 
